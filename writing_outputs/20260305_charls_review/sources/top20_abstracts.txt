@@ -1,0 +1,1500 @@
+1. EClinicalMedicine. 2025 Mar 25;82:103163. doi: 10.1016/j.eclinm.2025.103163. 
+eCollection 2025 Apr.
+
+Association between BMI and asthma in adults over 45 years of age: analysis of 
+Global Burden of Disease 2021, China Health and Retirement Longitudinal Study, 
+and National Health and Nutrition Examination Survey data.
+
+Kong W(1)(2), Zhang X(1)(2), Gu H(1), Chen M(1), Li M(1), Zhang X(1), Meng 
+J(1)(2).
+
+Author information:
+(1)Department of Otolaryngology-Head and Neck Surgery, West China Hospital of 
+Sichuan University, Chengdu, China.
+(2)Allergy Centre of West China Hospital, Sichuan University, Chengdu, China.
+
+BACKGROUND: Asthma is a major global health concern, and body mass index (BMI) 
+is a key risk factor. This study aims to investigate the potential nonlinear 
+relationship between BMI and asthma risk in populations over 45 years of age 
+using large-scale, cross-national data.
+METHODS: This cross-sectional study utilised three databases: GBD 2021, China 
+Health and Retirement Longitudinal Study (CHARLS; cross-sectional data from 
+baseline survey, January 01, 2011 to December 31, 2011), and National Health and 
+Nutrition Examination Survey (NHANES; cross-sectional data from 2011 to 2012 
+cycle). Participants aged ≥45 years after excluding those with missing data on 
+BMI, asthma history, smoking history, age, sex, and BMI outside 10-80 kg/m2 were 
+included. Asthma was defined by self-report in CHARLS and by physician diagnosis 
+plus recent symptoms in NHANES. Smooth curve fitting was performed to visualise 
+the BMI-asthma relationship, adjusting for multiple confounders. We applied 
+segmented regression models to identify potential threshold effects, used 
+likelihood ratio tests to compare linear and non-linear models, and employed 
+bootstrap resampling for confidence intervals.
+FINDINGS: High BMI was the primary risk factor for asthma-related DALYs globally 
+(14.93% in 2021). From CHARLS, we included 13,393 participants, comprising 6267 
+males (46.79%) and 7126 females (53.21%). From NHANES, we included 2925 
+participants, comprising 46.6% males and 53.4% females. CHARLS data revealed a 
+U-shaped relationship between BMI and asthma risk, with critical points at 
+19.9 kg/m2 and 29.9 kg/m2. For BMI < 19.9 kg/m2, asthma risk increased by 28% 
+with each unit decrease in BMI (OR = 1.28, 95% CI: 1.15-1.43). For BMI ≥ 
+29.9 kg/m2, asthma risk increased by 25% with each unit increase in BMI 
+(OR = 1.25, 95% CI: 1.05-1.49). NHANES data showed a non-linear relationship 
+with a turning point at 21.6 kg/m2. For BMI ≥ 21.6 kg/m2, asthma risk increased 
+by 5% with each unit increase in BMI (OR = 1.05, 95% CI: 1.03-1.06).
+INTERPRETATION: This study elucidates a significant non-linear relationship 
+between BMI and asthma risk in populations aged 45 years and older, providing 
+insights for tailored asthma prevention strategies, although the cross-sectional 
+design limits causal inference. Future studies should focus on collecting and 
+stratifying longitudinal data and adjusting for asthma diagnosis timing to 
+obtain more accurate results.
+FUNDING: National Nature Science Foundation of China.
+
+© 2025 The Author(s).
+
+DOI: 10.1016/j.eclinm.2025.103163
+PMCID: PMC11985127
+PMID: 40212048
+
+Conflict of interest statement: All authors declare no competing interests.
+
+
+2. Cardiovasc Diabetol. 2025 Mar 26;24(1):142. doi: 10.1186/s12933-025-02686-9.
+
+Association between C-reactive protein-triglyceride glucose index and stroke 
+risk in different glycemic status: insights from the China Health and Retirement 
+Longitudinal Study (CHARLS).
+
+Huo G(#)(1), Tang Y(#)(1), Liu Z(1), Cao J(1), Yao Z(1), Zhou D(2).
+
+Author information:
+(1)The Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou 
+Municipal Hospital, No. 26 Daoqian Street, Suzhou, Jiangsu, China.
+(2)The Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou 
+Municipal Hospital, No. 26 Daoqian Street, Suzhou, Jiangsu, China. 
+zhoudy@njmu.edu.cn.
+(#)Contributed equally
+
+OBJECTIVE: C-reactive protein-triglyceride-glucose index (CTI) has been proposed 
+as a novel biomarker for insulin resistance and inflammation. However, the 
+association between CTI and the risk of stroke, particularly in individuals with 
+different glycemic status, remains unclear.
+METHODS: A total of 10,443 middle-aged and elderly participants were enrolled 
+from the China Health and Retirement Longitudinal Study (CHARLS). The primary 
+endpoint was the occurrence of stroke events. The CTI was calculated using the 
+formula 0.412* Ln (CRP [mg/L]) + Ln (TG [mg/dl] × FPG [mg/dl])/2. The 
+Kaplan-Meier curves, Cox proportional hazard models, and restricted cubic spline 
+analysis were applied to explore the association between CTI and the risk of 
+stroke according to gender, age and glycemic status.
+RESULTS: During a median follow-up of 9 years, 960 (9.2%) participants 
+experienced a stroke. Our findings revealed a significant positive linear 
+relationship between CTI and the occurrence of stroke. The association was 
+similar between male and female, despite the HR tended to be higher in females 
+(HR 1.22, 95% CI 1.09, 1.36) than males (HR 1.15, 95% CI 1.02, 1.29), and 
+similar in middle-aged (HR 1.25, 95% CI 1.11, 1.41) and elderly participants (HR 
+1.12, 95% CI 1.00, 1.26). In different glycemic status, high levels of CTI were 
+found to be linked to an increased risk of stroke in individuals with normal 
+glucose regulation (NGR) (HR 1.33, 95% CI 1.11, 1.59) and prediabetes mellitus 
+(Pre-DM) (HR 1.20, 95% CI 1.04, 1.39). However, this association was not 
+observed in individuals with diabetes mellitus (DM).
+CONCLUSIONS: Our findings revealed a significant positive linear relationship 
+between CTI and the occurrence of stroke. The association between CTI and stroke 
+was similar between male and female, and similar in middle-aged and elderly 
+participants. In different glycemic status, the association was significant in 
+individuals with NGR and Pre-DM.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12933-025-02686-9
+PMCID: PMC11948880
+PMID: 40140859 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: CHARLS was approved by the Institutional Review Board of Peking 
+University (approval number: IRB00001052-11015 for the household survey and 
+IRB00001052-11014 for blood samples), and all participants provided written 
+informed consent. Consent for publication: Not applicable. Competing interests: 
+The authors declare no competing interests.
+
+
+3. J Hazard Mater. 2025 Jul 15;492:138105. doi: 10.1016/j.jhazmat.2025.138105.
+Epub  2025 Mar 30.
+
+Air pollution increases the risk of frailty: China Health and Retirement 
+Longitudinal Study (CHARLS).
+
+Chen Y(1), Xu Z(1), Guo Y(1), Li S(1), Wang YA(1), Gasevic D(2).
+
+Author information:
+(1)School of Public Health and Preventive Medicine, Faculty of Medicine, Nursing 
+& Health Sciences, Monash University, Level 1, 553 St Kilda Road, Melbourne, 
+Victoria 3004, Australia.
+(2)School of Public Health and Preventive Medicine, Faculty of Medicine, Nursing 
+& Health Sciences, Monash University, Level 1, 553 St Kilda Road, Melbourne, 
+Victoria 3004, Australia; Centre for Global Health, Usher Institute, The 
+University of Edinburgh, Edinburgh, Scotland, UK. Electronic address: 
+danijela.gasevic@monash.edu.
+
+The longitudinal association between multiple air pollutants and frailty risk 
+remains unexplored, and it is unclear which factors may modify this 
+relationship. Using data from 10,584 Chinese adults aged 45 years and older in 
+the 2011-2020 waves of the China Health and Retirement Longitudinal Study 
+(CHARLS), we investigated whether exposure to PM1, PM2.5, PM10, O3, and NO2 
+affects frailty over a median follow-up of seven years. Air pollutant data were 
+obtained from the China High Air Pollutants (CHAP) dataset, and frailty was 
+assessed using a 44-item Frailty Index (FI ≥ 0.25). Time-varying Cox 
+proportional hazards models, adjusted for demographic, socioeconomic, and 
+behavioral factors, indicated that each 10 μg/m³ increase in PM1, PM2.5, PM10, 
+and NO2 corresponded to a 7.8 %, 4.2 %, 3.8 %, and 12.9 % higher risk of 
+frailty, respectively, while O3 showed no significant association. Individuals 
+who were sufficiently active appeared less affected by pollution, whereas those 
+with no formal education were more vulnerable. Implementing future policies and 
+interventions to reduce air pollution can potentially decrease the risk of 
+frailty and promote healthy ageing.
+
+Copyright © 2025 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhazmat.2025.138105
+PMID: 40187242 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare no conflict of interest.
+
+
+4. EClinicalMedicine. 2022 Jan 10;44:101264. doi: 10.1016/j.eclinm.2021.101264. 
+eCollection 2022 Feb.
+
+Association between sarcopenia and cardiovascular disease among middle-aged and 
+older adults: Findings from the China health and retirement longitudinal study.
+
+Gao K(1), Cao LF(1), Ma WZ(2), Gao YJ(1), Luo MS(3), Zhu J(3), Li T(4), Zhou 
+D(3).
+
+Author information:
+(1)Department of Cardiology, The First Affiliated Hospital of Xi'an Jiaotong 
+University, Xi'an, Shaanxi, China.
+(2)Department of Biomedical and Pharmaceutical Sciences, College of Pharmacy, 
+University of Rhode Island, RI, United States.
+(3)Department of Gastroenterology, The First Affiliated Hospital of Xi'an 
+Jiaotong University, 277 West Yanta Road, Xi'an, Shaanxi 710061, China.
+(4)School of Basic Medicine, Fourth Military Medical University, Xi'an, Shaanxi, 
+China.
+
+BACKGROUND: Little is known about the association between sarcopenia and 
+cardiovascular disease (CVD) among middle-aged and older adults. Using the 
+nationally representative data from the China Health and Retirement Longitudinal 
+Study (CHARLS), we conducted cross-sectional and longitudinal analyses to 
+investigate the association between sarcopenia status and CVD in middle-aged and 
+older Chinese population.
+METHODS: The sample comprised 15,137 participants aged at least 45 years from 
+the CHARLS 2015. Sarcopenia status was defined according to the Asian Working 
+Group for Sarcopenia 2019 (AWGS 2019) criteria. CVD was defined as the presence 
+of physician-diagnosed heart disease and/or stroke. A total of 11,863 
+participants without CVD were recruited from the CHARLS 2015 and were followed 
+up in 2018. Cox proportional hazards regression models were conducted to examine 
+the effect of sarcopenia on CVD.
+FINDINGS: The pre valence of CVD in total populations, no-sarcopenia, possible 
+sarcopenia and sarcopenia individuals were 12.6% (1905/15,137), 10.0% 
+(1026/10,280), 18.1% (668/3685), 18.0% (211/1172), respectively. Both possible 
+sarcopenia [OR (95% CI): 1.29 (1.13-1.48)] and sarcopenia [1.72 (1.40-2.10)] 
+were associated with CVD in total populations. During the 3.6 years of 
+follow-up, 1,273 cases (10.7%) with incident CVD were identified. In the 
+longitudinal analysis, individuals with the diagnosis of possible sarcopenia 
+(HR:1.22, 95% CI: 1.05-1.43) and sarcopenia participants (HR:1.33, 95% CI: 
+1.04-1.71) were more likely to have new onset CVD than no-sarcopenia peers.
+INTERPRETATION: Both possible sarcopenia and sarcopenia, assessed using the AWGS 
+2019 criteria, were associated with higher CVD risk among middle-aged and older 
+Chinese adults.
+FUNDING: None.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.eclinm.2021.101264
+PMCID: PMC8760427
+PMID: 35059617
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+5. J Adv Res. 2025 Oct;76:543-552. doi: 10.1016/j.jare.2024.12.015. Epub 2024 Dec
+ 12.
+
+Predictive value of remnant cholesterol inflammatory index for stroke risk: 
+Evidence from the China health and Retirement Longitudinal study.
+
+Chen J(1), Wu Q(2), Liu H(2), Hu W(2), Zhu J(3), Ji Z(4), Yin J(5).
+
+Author information:
+(1)Department of Neurology, Nanfang Hospital, Southern Medical University, 
+Guangzhou 510515, China; Comprehensive Medical Treatment Ward, Nanfang Hospital, 
+Southern Medical University, Guangzhou 510515, China.
+(2)Department of Neurology, Nanfang Hospital, Southern Medical University, 
+Guangzhou 510515, China.
+(3)Department of Neurology, Nanfang Hospital, Southern Medical University, 
+Guangzhou 510515, China. Electronic address: 32102002@qq.com.
+(4)Department of Neurology, Nanfang Hospital, Southern Medical University, 
+Guangzhou 510515, China. Electronic address: 968848@qq.com.
+(5)Department of Neurology, Nanfang Hospital, Southern Medical University, 
+Guangzhou 510515, China. Electronic address: yinj@smu.edu.cn.
+
+INTRODUCTION: Remnant cholesterol (RC) and high-sensitivity C-reactive protein 
+(hs-CRP) are established stroke risk factors, but their joint impact remains 
+unclear.
+OBJECTIVES: This study aimed to evaluate the predictive value of the remnant 
+cholesterol inflammatory index (RCII), a novel index integrating RC and hs-CRP, 
+in assessing stroke risk.
+METHODS: We analyzed 9,898 participants aged 45 years or older, with no history 
+of stroke at baseline, from the China Health and Retirement Longitudinal Study 
+(CHARLS). RCII was calculated using the formula: RCII = RC 
+(mg/dL) × hs-CRP(mg/L)/10. A subset of 5,704 participants was studied to 
+investigate the relationship between cumulative RCII exposure and stroke 
+incidence. The associations of both baseline and cumulative RCII with stroke 
+risk were assessed using Cox proportional hazards regression model.
+RESULTS: During a median 7-year follow-up, 560 participants (5.7 %) experienced 
+an incident stroke. Stroke incidence escalated with increasing RCII quartiles, 
+from 3.5 % (Q1) to 7.6 % (Q4). In multivariable-adjusted analyses, each standard 
+deviation increase in RCII was significantly associated with a 10.6 % increased 
+risk of stroke (HR = 1.106, 95 % CI: 1.048-1.167). ROC analysis revealed that 
+RCII had the highest AUC at 0.581, higher than RC (0.566) and hs-CRP (0.560), 
+though the difference with RC was not statistically significant (P = 0.166). 
+Mediation analysis indicated a reciprocal mediation between RC and hs-CRP on 
+stroke risk. In a 3-year subset analysis, 288 participants suffered a stroke. 
+Participants with cumulative RCII levels exceeding 36.14 had a significantly 
+increased risk of incident stroke (HR = 1.462, 95 % CI: 1.102-1.939). Subgroup 
+analyses showed a significant positive association between elevated RCII levels 
+and stroke risk in males, but not in females.
+CONCLUSIONS: Elevated levels of RCII, both at baseline and cumulative, are 
+significantly associated with an increased risk of stroke. Early intervention in 
+patients with high RCII may further help reduce stroke risk.
+
+Copyright © 2024. Published by Elsevier B.V.
+
+DOI: 10.1016/j.jare.2024.12.015
+PMCID: PMC12793758
+PMID: 39674498 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+6. Cardiovasc Diabetol. 2025 Mar 8;24(1):109. doi: 10.1186/s12933-025-02667-y.
+
+Joint assessment of abdominal obesity and non-traditional lipid parameters for 
+primary prevention of cardiometabolic multimorbidity: insights from the China 
+health and retirement longitudinal study 2011-2018.
+
+Lai H(1), Tu Y(2), Liao C(1), Zhang S(1), He L(3), Li J(4).
+
+Author information:
+(1)The Second Affiliated Hospital, Jiangxi Medical College, Nanchang University, 
+Nanchang, Jiangxi, China.
+(2)Faculty of Science, University of Melbourne, Grattan Street, Parkville, VIC, 
+3010, Australia.
+(3)Department of Geriatrics, The Second Affiliated Hospital of Nanchang 
+University, Nanchang, Jiangxi, China.
+(4)Department of Geriatrics, The Second Affiliated Hospital of Nanchang 
+University, Nanchang, Jiangxi, China. ndefy03048@ncu.edu.cn.
+
+BACKGROUND: Obesity and abnormal lipid metabolism increase the risk of various 
+cardiometabolic diseases, including diabetes, heart disease, and stroke. 
+However, the impact of abdominal obesity (AO) and non-traditional lipid 
+parameters on the risk of cardiometabolic multimorbidity (CMM) remains unclear. 
+This study aims to investigate the separate and combined effects of AO and 
+non-traditional lipid parameters on the incidence risk of CMM.
+METHODS: This study enrolled 7,597 eligible participants from the China health 
+and retirement longitudinal study (CHARLS). Cox proportional hazards models were 
+used to perform adjusted regression analyses and mediation analyses, with 
+Kaplan-Meier analysis used for cumulative hazards. Restricted cubic splines were 
+utilized to evaluate the nonlinear relationship between non-traditional lipid 
+parameters and the risk of CMM among participants with AO. Subgroup analyses 
+were conducted with stratification by age, gender, BMI, smoking status, drinking 
+status, and hypertension to investigate interaction effects across different 
+populations. Additionally, sensitivity analyses were further performed to 
+evaluate the impact of various subgroups on diabetes, heart disease, and stroke.
+RESULTS: During the 7-year follow-up period, a total of 699 participants (9.20%) 
+were newly diagnosed with CMM. Kaplan-Meier curves revealed that the subgroup 
+with both AO and high levels of non-traditional lipid parameters had the highest 
+cumulative hazard for developing CMM. In the fully adjusted model, Cox 
+regression analysis revealed that participants with both high levels of 
+non-traditional lipid parameters and AO exhibited the highest risk of developing 
+CMM. Subgroup and sensitivity analyses further confirmed the robustness of these 
+findings, showing consistent results across different demographic groups and 
+under various analytical conditions. Furthermore, AO was found to significantly 
+mediated the associations between non-traditional lipid parameters and the risk 
+of developing CMM.
+CONCLUSION: The separate and combined effects of AO and non-traditional lipid 
+parameters were significantly associated with the risk of developing CMM. 
+Notably, AO may induce CMM by partially mediating the effects of serum lipids in 
+human metabolism. The findings highlighted the importance of joint evaluation of 
+AO and non-traditional lipid parameters for primary prevention of CMM.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12933-025-02667-y
+PMCID: PMC11890515
+PMID: 40057762 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The CHARLS study was performed in accordance with the principles of 
+the Declaration of Helsinki and was approved by the Institutional Review Board 
+of Peking University. All participants provided written informed consent before 
+participating in the CHARLS study. Competing interests: The authors declare no 
+competing interests.
+
+
+7. J Am Heart Assoc. 2024 Oct;13(19):e034768. doi: 10.1161/JAHA.124.034768. Epub 
+2024 Sep 25.
+
+Body Roundness Index Trajectories and the Incidence of Cardiovascular Disease: 
+Evidence From the China Health and Retirement Longitudinal Study.
+
+Yang M(1), Liu J(1), Shen Q(1), Chen H(1), Liu Y(1), Wang N(1), Yang Z(1), Zhu 
+X(1), Zhang S(1), Li X(1), Qian Y(1).
+
+Author information:
+(1)The Affiliated Wuxi Center for Disease Control and Prevention of Nanjing 
+Medical University Wuxi Center for Disease Control and Prevention Wuxi China.
+
+BACKGROUND: Several previous cross-sectional studies suggested that body 
+roundness index (BRI) may be associated with cardiovascular disease (CVD). 
+However, the association should be further validated. Our study aimed to assess 
+the association of the BRI trajectories with CVD among middle-aged and older 
+Chinese people in a longitudinal cohort.
+METHODS AND RESULTS: A total of 9935 participants from the CHARLS (China Health 
+and Retirement Longitudinal Study) with repeated BRI measurements from 2011 to 
+2016 were included. The BRI trajectories were identified by group-based 
+trajectory modeling. The primary outcome was incident CVD (stroke or cardiac 
+events), which occurred in 2017 to 2020. Cox proportional hazards regression 
+models were used to examine the association of BRI trajectories with CVD risk. 
+Participants were divided into 3 BRI trajectories, named the low-stable BRI 
+trajectory, moderate-stable BRI trajectory and high-stable BRI trajectory, 
+accounting for 49.81%, 42.35%, and 7.84% of the study population, respectively. 
+Compared with participants in the low-stable BRI trajectory group, those in the 
+moderate-stable and high-stable BRI trajectory groups had an increased risk of 
+CVD, with multivariable adjusted hazard ratios of 1.22 (95% CI, 1.09-1.37) and 
+1.55 (95% CI, 1.26-1.90), respectively. Furthermore, simultaneously adding the 
+BRI trajectory to the conventional risk model improved CVD risk reclassification 
+(all P<0.05).
+CONCLUSIONS: A higher BRI trajectory was associated with an increased risk of 
+CVD. The BRI can be included as a predictive factor for CVD incidence.
+
+DOI: 10.1161/JAHA.124.034768
+PMCID: PMC11681446
+PMID: 39319466 [Indexed for MEDLINE]
+
+
+8. BMC Public Health. 2024 Feb 16;24(1):499. doi: 10.1186/s12889-024-17982-4.
+
+Risk of fall in patients with chronic kidney disease: results from the China 
+health and retirement longitudinal study (CHARLS).
+
+Lin P(#)(1), Wan B(#)(2), Zhong J(1), Wang M(2), Tang F(3), Wang L(3), Guo J(3), 
+Ye Y(3), Liu X(3), Peng L(4), Deng L(5).
+
+Author information:
+(1)The Second Clinical College of Guangzhou University of Chinese Medicine, 
+Guangzhou, China.
+(2)School of Nursing, Hunan University of Chinese Medicine, Changsha, China.
+(3)The Second Affiliated Hospital of Guangzhou University of Chinese Medicine 
+(Guangdong Provincial Hospital of Traditional Chinese Medicine), Guangzhou, 
+China.
+(4)The Second Affiliated Hospital of Guangzhou University of Chinese Medicine 
+(Guangdong Provincial Hospital of Traditional Chinese Medicine), Guangzhou, 
+China. yuexiangzi@163.com.
+(5)The Second Affiliated Hospital of Guangzhou University of Chinese Medicine 
+(Guangdong Provincial Hospital of Traditional Chinese Medicine), Guangzhou, 
+China. denglili@gzucm.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: Chronic kidney disease (CKD), often coexisting with various systemic 
+disorders, may increase the risk of falls. Our study aimed to assess the 
+prevalence and risk of falls among patients with CKD in China.
+METHODS: We included patients with/without CKD from China Health and Retirement 
+Longitudinal Study (CHARLS). Our primary outcome was the occurrence of fall 
+accidents within the past 2 years. To enhance the robustness of our findings, we 
+employed a multivariable logistic regression model, conducted propensity score 
+analysis, and applied an inverse probability-weighting model.
+RESULTS: A total of 12,658 participants were included, the prevalence of fall 
+accident rates were 17.1% (2,028/11,837) among participants without CKD and 
+24.7% (203/821) among those with CKD. In the inverse probability-weighting 
+model, participants with CKD exhibited higher fall accident rates (OR = 1.28, 
+95% CI: 1.08-1.53, p = 0.005 ). Sensitivity and subgroup analysis showed the 
+results still stable.
+CONCLUSIONS: The population in China afflicted with CKD has a significantly 
+heightened risk of experiencing falls, underscoring the crucial importance of 
+intensifying efforts in assessing and preventing fall risks.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12889-024-17982-4
+PMCID: PMC10873935
+PMID: 38365639 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+9. BMJ Open. 2024 May 27;14(5):e085645. doi: 10.1136/bmjopen-2024-085645.
+
+Exploring the association between Frailty Index and low back pain in middle-aged 
+and older Chinese adults: a cross-sectional analysis of data from the China 
+Health and Retirement Longitudinal Study (CHARLS).
+
+Qing L(#)(1), Zhu Y(#)(1), Feng L(2), Wang X(2), Sun YN(3), Yu C(4), Ni J(4).
+
+Author information:
+(1)The First Clinical College, Beijing University of Chinese Medicine, Beijing, 
+China.
+(2)Beijing University of Chinese Medicine Affiliated Dongzhimen Hospital, 
+Beijing, China.
+(3)Traditional Chinese Medicine Department, Xuanwu Hospital Capital Medical 
+University, Beijing, China.
+(4)Beijing University of Chinese Medicine Affiliated Dongzhimen Hospital, 
+Beijing, China nijinxia118@126.com yakno2@163.com.
+(#)Contributed equally
+
+OBJECTIVES: This study explored the association between the Frailty Index (FI) 
+and low back pain (LBP) in middle-aged and older Chinese adults. We hypothesised 
+that a higher FI correlates with increased LBP prevalence.
+DESIGN: Cross-sectional analysis.
+SETTING: The study used data from the China Health and Retirement Longitudinal 
+Study (CHARLS) across various regions of China.
+PARTICIPANTS: The analysis included 6375 participants aged 45 and above with 
+complete LBP and FI data from the CHARLS for 2011, 2013 and 2015. We excluded 
+individuals under 45, those with incomplete LBP data, participants with fewer 
+than 30 health deficit items and those missing covariate data.
+OUTCOME MEASURES: We constructed an FI consisting of 35 health deficits. 
+Logistic multivariable regression examined the relationship between FI and LBP, 
+using threshold analysis to identify inflection points. Sensitivity analyses 
+were performed to ensure the robustness of the findings.
+RESULTS: Of the participants, 27.2% reported LBP. A U-shaped association was 
+observed between FI and LBP, with the highest quartile (Q4, FI ≥0.23) showing 
+more than a twofold increased risk of LBP (OR=2.90, 95% CI: 2.45-3.42, p<0.001). 
+Stratified analysis showed a significant association in participants under 60, 
+particularly in the lowest FI quartile (OR=1.43, 95% CI: 1.14 to 1.79). 
+Sensitivity analysis upheld the robustness of the primary results.
+CONCLUSIONS: The findings suggest a complex relationship between frailty and 
+LBP, highlighting the need for early screening and tailored interventions to 
+manage LBP in this demographic. Further research is necessary to understand the 
+mechanisms of this association and to validate the findings through longitudinal 
+studies.
+
+© Author(s) (or their employer(s)) 2024. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2024-085645
+PMCID: PMC11131124
+PMID: 38802272 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+10. J Gen Intern Med. 2023 May;38(6):1431-1438. doi: 10.1007/s11606-022-07951-1. 
+Epub 2022 Nov 28.
+
+The Association of Age at Diagnosis of Hypertension with Cognitive Decline: the 
+China Health and Retirement Longitudinal Study (CHARLS).
+
+Ding L(1), Zhu X(2), Xiong Z(3), Yang F(1), Zhang X(1).
+
+Author information:
+(1)School of Nursing, Hubei University of Chinese Medicine, #16 Huangjiahu west 
+road, Wuhan, 430065, Hubei province, China.
+(2)School of Nursing, Hubei University of Chinese Medicine, #16 Huangjiahu west 
+road, Wuhan, 430065, Hubei province, China. zxh88@hbtcm.edu.cn.
+(3)School of Nursing, Hubei University of Chinese Medicine, #16 Huangjiahu west 
+road, Wuhan, 430065, Hubei province, China. 825286722@qq.com.
+
+AIM: This study investigated whether an individual's age at diagnosis of 
+hypertension, which is associated with a decline in cognitive performance in the 
+China Health and Retirement Longitudinal Study (CHARLS) participants.
+METHODS: Our analysis was based on the CHARLS with baseline data collected 
+between 2011 and 2018. We randomly selected a control participant for each 
+hypertensive participant using propensity score. The cohort comprised 2413 
+individuals with hypertension and 2411 controls. Participants were divided into 
+three groups as follows: non-hypertension, hypertension diagnose ≥55 years, and 
+hypertension diagnose <55 years. Cognitive performance was measured in both 
+visits and evaluated by the scores of the memory, executive function, and 
+orientation and global cognitive.
+RESULTS: After multivariable adjustment, individuals with hypertension diagnosed 
+<55 years had a significantly faster cognitive decline in memory test (β (95% 
+CI, -1.117 [-1.405, -0.83]), orientation test (β (95% CI, -1.273 [-1.348, 
+-1.198]) and global cognitive (β (95% CI, -1.611 [-1.744, -1.478]) compared with 
+the corresponding controls. A longer hypertension duration was associated with 
+worse memory test (β (95% CI, -0.069 [-0.113 to -0.025]). Among treated 
+individuals, blood pressure control at baseline was inversely associated with 
+the decline in orientation test (β (95% CI, -0.659 [-0.939, -0.380]), 
+orientation test (β (95% CI, -0.259[-0.365, -0.153])and global cognitive (β (95% 
+CI, -0.124 [-0.162, -0.086]).
+CONCLUSIONS: Our findings suggest that hypertension diagnosed in mid-life is 
+associated with worse cognition compared to late life. Besides, longer duration 
+of diagnosis is associated with worse memory test. In addition to hypertension, 
+pressure control might be critical for the preservation of cognitive function.
+
+© 2022. The Author(s), under exclusive licence to Society of General Internal 
+Medicine.
+
+DOI: 10.1007/s11606-022-07951-1
+PMCID: PMC10160298
+PMID: 36443629 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict interests.
+
+
+11. BMC Public Health. 2025 May 15;25(1):1797. doi: 10.1186/s12889-025-22959-y.
+
+Association of frailty and its trajectory with the risk of cancer: evidence from 
+the China health and retirement longitudinal study (CHARLS).
+
+Gao Q(#)(1), Li P(#)(1), Lu Z(1), Ma M(1), Zhang N(2), Lu Y(3), Yu J(4).
+
+Author information:
+(1)School of Public Health, Shandong Second Medical University, Weifang, 
+Shandong, 261053, China.
+(2)Shandong Cancer Hospital and Institute, Shandong First Medical University and 
+Shandong Academy of Medical Sciences, Jinan, Shandong, 250117, China.
+(3)Shandong Cancer Hospital and Institute, Shandong First Medical University and 
+Shandong Academy of Medical Sciences, Jinan, Shandong, 250117, China. 
+luyouhua@126.com.
+(4)Shandong Cancer Hospital and Institute, Shandong First Medical University and 
+Shandong Academy of Medical Sciences, Jinan, Shandong, 250117, China. 
+sdyujinming@126.com.
+(#)Contributed equally
+
+BACKGROUND: Frailty can be identified in both middle-aged and older adults. 
+However, longitudinal studies that examine whether frailty is associated with 
+incident cancer are currently lacking. This study aimed to comprehensively 
+examine the impact of baseline frailty levels and their changing trajectories 
+over time on the risk of cancer.
+METHODS: We assessed frailty status using the frailty index based on data from 
+the China Health and Retirement Longitudinal Study (CHARLS) from 2011 to 2020. 
+First, the association between baseline frailty and cancer risk was analyzed 
+using the Cox proportional hazards model. Second, based on the CHARLS data from 
+2011 to 2020, we used Group-based trajectory modeling (GBTM) to identify 
+trajectories of frailty development during the four follow-up periods from 2011 
+to 2020. Cox proportional hazards model was used to analyze the association 
+between frailty trajectories and the risk of cancer incidence during the 
+follow-up period.
+RESULTS: A total of 17,708 participants were involved at the baseline survey in 
+CHARLS 2011. During a mean follow-up period of 8.05 years, 248 cancer events 
+occurred. Compared with non-frailty individuals, participants in pre-frailty and 
+frailty states had a 34% (hazard ratio [HR]: 1.34, 95% confidence interval [CI]: 
+1.03-1.75) and 66% (HR: 1.66, 95% CI: 1.07-2.56) increased risk of overall 
+cancer incidence, respectively. Based on repeated measurements from 2011 to 
+2018, three trajectories of frailty were identified among 9,173 participants. 
+Compared to the low-level stable group, the high-level increase group had the 
+highest risk of cancer, with an associated HR (95% CI) of 5.43 (1.07-5.73). This 
+was followed by the medium-level increase group, with an associated HR (95% CI 
+2.86 (1.27-6.43). When stratified by sex and age, participants aged ≥ 60 years 
+and female participants in the high-level increase frailty group had a higher 
+risk of developing cancer.
+CONCLUSION: Frailty is associated with cancer risk. Medium and high levels of 
+the frailty index are significantly associated with an increased risk of cancer 
+incidence. In addition, more attention should be paid to the risk of cancer in 
+people aged ≥ 60 years and in women with high levels of frailty.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12889-025-22959-y
+PMCID: PMC12080056
+PMID: 40375252 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The methods used in this study involving human participants 
+followed the ethical guidelines laid down in the 1964 Declaration of Helsinki 
+and its subsequent revisions. Ethical approval for all waves of the CHARLS study 
+was obtained from the Institutional Review Board (IRB) at Peking University. The 
+IRB approval number is IRB00001052-11015. Written signed informed consent was 
+obtained at recruitment from all participants, including legal representatives 
+for illiterate participants Consent for publication: Not applicable. Competing 
+interests: The authors declare no competing interests.
+
+
+12. Cardiovasc Diabetol. 2025 Aug 4;24(1):318. doi: 10.1186/s12933-025-02880-9.
+
+Predictive value of the combined triglyceride-glucose and frailty index for 
+cardiovascular disease and stroke in two prospective cohorts.
+
+Zhao YC(#)(1)(2)(3)(4), Wu SQ(#)(1)(2)(3)(4), Li JK(1)(2)(3)(4), Sun 
+ZH(1)(2)(5)(4), Zhang BK(1)(2)(3)(4), Fu R(1)(2)(3)(4), Yan M(6)(7)(8)(9).
+
+Author information:
+(1)Department of Pharmacy, The Second Xiangya Hospital, Central South 
+University, Changsha, 410011, Hunan Province, People's Republic of China.
+(2)International Research Center for Precision Medicine, Transformative 
+Technology and Software Services, Changsha, Hunan Province, China.
+(3)National Clinical Research Center for Metabolic Diseases, Changsha, 410011, 
+Hunan Province, People's Republic of China.
+(4)Department of Clinical Pharmacy, The Second Xiangya Hospital of Central South 
+University, Changsha, 410010, Hunan Province, People's Republic of China.
+(5)China Pharmaceutical University, Nanjing, 210009, Jiangsu Province, People's 
+Republic of China.
+(6)Department of Pharmacy, The Second Xiangya Hospital, Central South 
+University, Changsha, 410011, Hunan Province, People's Republic of China. 
+yanmiao@csu.edu.cn.
+(7)International Research Center for Precision Medicine, Transformative 
+Technology and Software Services, Changsha, Hunan Province, China. 
+yanmiao@csu.edu.cn.
+(8)National Clinical Research Center for Metabolic Diseases, Changsha, 410011, 
+Hunan Province, People's Republic of China. yanmiao@csu.edu.cn.
+(9)Department of Clinical Pharmacy, The Second Xiangya Hospital of Central South 
+University, Changsha, 410010, Hunan Province, People's Republic of China. 
+yanmiao@csu.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: The triglyceride-glucose (TyG) index is a validated surrogate for 
+insulin resistance, while frailty reflects cumulative physiological decline. The 
+combined impact of TyG-Frailty Index (TyGFI) has not been adequately explored. 
+This study aimed to investigate the association between TyGFI and the risk of 
+cardiovascular disease (CVD) and stroke.
+METHODS: A total of 5448 participants from the China Health and Retirement 
+Longitudinal Study (CHARLS) and 1139 participants from the U.S. National Health 
+and Nutrition Examination Survey (NHANES) were included. Multivariable logistic 
+regression models were used to estimate associations with CVD and stroke, 
+adjusting for demographic, clinical, and lifestyle covariates. Restricted cubic 
+spline (RCS) and subgroup analyses were employed to examine dose-response 
+relationships and interaction effects.
+RESULTS: Higher TyGFI levels were associated with older age, adverse metabolic 
+parameters, and increased prevalence of hypertension, diabetes, and 
+dyslipidemia. In fully adjusted models, the highest TyGFI quartile was 
+significantly associated with increased risks of CVD (CHARLS: OR 15.09, 95% CI 
+9.65-23.60; NHANES: OR 4.98, 95% CI 2.04-12.19) and stroke (CHARLS: OR 21.12, 
+95% CI 6.44-69.23; NHANES: OR 12.98, 95% CI 2.58-65.17), with consistent 
+dose-response trends confirmed by RCS analyses. Subgroup analyses further 
+demonstrated the robustness of these associations across diverse demographic and 
+clinical strata.
+CONCLUSIONS: TyGFI is a strong and independent predictor of CVD and stroke in 
+two nationally representative cohorts. By integrating metabolic and functional 
+risk dimensions, TyGFI provides a more comprehensive risk stratification tool, 
+with significant implications for early identification and prevention of 
+cardiovascular events in aging populations.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12933-025-02880-9
+PMCID: PMC12323107
+PMID: 40759963 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The China Health and Retirement Longitudinal Study was approved by 
+the Ethics Review Committee of Peking University. The National Health and 
+Nutrition Examination Survey were approved by the National Center for Health 
+Statistics ethics review board. Written informed consent was obtained from all 
+participants. Informed consent was obtained from each subject in these two 
+cohorts. Consent for publication: This manuscript is not currently under 
+consideration for publication elsewhere, and the work reported will not be 
+submitted for publication elsewhere until a final decision has been made as to 
+its acceptability by the journal. Competing interests: The authors declare no 
+competing interests.
+
+
+13. BMC Geriatr. 2022 Jul 23;22(1):613. doi: 10.1186/s12877-022-03301-2.
+
+Body mass index and trajectories of the cognition among Chinese middle and 
+old-aged adults.
+
+Zhang W(1), Chen Y(1), Chen N(2)(3).
+
+Author information:
+(1)School of Health Economics and Management, Nanjing University of Chinese 
+Medicine, Nanjing, Jiangsu, People's Republic of China.
+(2)School of Health Economics and Management, Nanjing University of Chinese 
+Medicine, Nanjing, Jiangsu, People's Republic of China. chenna@njucm.edu.cn.
+(3)School of Elderly Care Services and Management, Nanjing University of Chinese 
+Medicine, 138 Xianlin Road, Nanjing, Jiangsu, People's Republic of China. 
+chenna@njucm.edu.cn.
+
+This study aims to investigate the association between trajectories of the 
+cognition and body mass index (BMI) among Chinese middle and old-aged adults. A 
+total of 5693 adults (age 45 +) whose cognitive score is higher than average at 
+the baseline were included from China Health and Retirement Longitudinal Study 
+(CHARLS:2011-2015). Cognitive function was measured by Mini-mental state 
+examination (MMSE) in Chinese version. The Group-based trajectory modeling 
+(GBTM) was adopted to identify the potential heterogeneity of longitudinal 
+changes over the past 5 years and to investigate the relationship between 
+baseline BMI and trajectories of cognitive function. Three trajectories were 
+identified in results: the slow decline (37.92%), the rapid decline (6.71%) and 
+the stable function (55.37%). After controlling for other variables, underweight 
+(BMI < 18.5 kg/m2) was associated with the rapid and slow decline trajectories. 
+Obesity (BMI > 28 kg/m2) was associated with the slow decline trajectory. 
+High-risk people of cognitive decline can be screened by measuring BMI.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12877-022-03301-2
+PMCID: PMC9308927
+PMID: 35870889 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest in 
+this work.
+
+
+14. BMC Public Health. 2025 Feb 7;25(1):518. doi: 10.1186/s12889-025-21609-7.
+
+Characterisation of cardiovascular disease (CVD) incidence and machine learning 
+risk prediction in middle-aged and elderly populations: data from the China 
+health and retirement longitudinal study (CHARLS).
+
+Huang Q(#)(1), Jiang Z(#)(1), Shi B(2), Meng J(2), Shu L(1), Hu F(1), Mi J(3).
+
+Author information:
+(1)School of Public Health, Bengbu Medical University, No. 2600 Donghai Avenue, 
+Bengbu, Anhui, 233030, China.
+(2)School of Medical Imaging, Bengbu Medical University, No. 2600 Donghai 
+Avenue, Bengbu, Anhui, 233030, China.
+(3)School of Public Health, Bengbu Medical University, No. 2600 Donghai Avenue, 
+Bengbu, Anhui, 233030, China. mijing@bbmc.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: Due to the ageing population and evolving lifestyles occurring in 
+China, middle-aged and elderly populations have become high-risk groups for 
+cardiovascular disease (CVD). The aim of this study was to analyse the incidence 
+characteristics of CVD in these populations and develop a prediction model by 
+using data from the China Health and Retirement Longitudinal Study (CHARLS).
+METHODS: We used follow-up data from the CHARLS to analyse CVD incidence in the 
+Chinese middle-aged and elderly population over a time span of 9 years. Five 
+machine learning (ML) algorithms were employed for risk prediction. Data 
+preprocessing included missing value imputation via random forest. Feature 
+selection was performed using the Least Absolute Shrinkage and Selection 
+Operator (Lasso CV) method with cross-validation prior to model training. The 
+application of the synthetic minority over-sampling technique (SMOTE) to address 
+class imbalance. Model performance was evaluated via analyses including the area 
+under the ROC curve (AUC), precision, recall, F1 score, and SHAP plots for 
+interpretability.
+RESULTS: In accordance with the exclusion criteria, 12,580, 12,061, 11,545, and 
+11,619 participants were enrolled in four follow-up rounds. The cumulative 
+incidence (CI) of CVD at 2, 4, 7, and 9 years was 2.846%, 8.971%, 17.869% and 
+20.518%,, respectively. Significant differences in CVD incidence were observed 
+across gender, age, ethnicity, and region, with higher rates observed in females 
+and in the northeast region. Ultimately, 8,080 participants and 24 features were 
+analysed for CVD risk prediction. Five ML models were built based on these 
+features. Although the LGB model achieves an AUC of 0.818, indicating strong 
+overall performance, its F1 score and recall rate are relatively low, at 0.509 
+and 43.1%, respectively. Shapley additive explanations (SHAP) analyses revealed 
+the importance of key features, such as night sleep duration, TG levels, and 
+waist circumference, in predicting outcomes, and highlighted the nonlinear 
+relationships between these features and CVD risk.
+CONCLUSIONS: Gender, age, ethnicity, and region are significant factors 
+influencing CVD incidence. Although the LGB model demonstrates good overall 
+performance, its low F1 score and recall rate reveal limitations in identifying 
+high-risk cardiovascular disease patients.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12889-025-21609-7
+PMCID: PMC11806717
+PMID: 39920658 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval: The baseline and 
+follow-up surveys of CHARLS were obtained from the Peking University Ethics 
+Review Board (IRB00001052-11015) approval, and all respondents signed an 
+informed consent form. Consent for publication: Not applicable. Competing 
+interests: The authors declare no competing interests.
+
+
+15. J Affect Disord. 2023 Nov 15;341:393-400. doi: 10.1016/j.jad.2023.09.004.
+Epub  2023 Sep 6.
+
+Association between changes in depressive symptoms and falls: The China health 
+and retirement longitudinal study (CHARLS).
+
+Song J(1), Wu X(2), Zhang Y(3), Song P(3), Zhao Y(4).
+
+Author information:
+(1)Rehabilitation Center, Beijing Rehabilitation Hospital, Capital Medical 
+University, Beijing, China.
+(2)Department of Internal Medicine and Rehabilitation Science, Tohoku University 
+Graduate School of Medicine, Tohoku University, Sendai, Japan.
+(3)Jiangwan Hospital of Shanghai Hongkou District, Shanghai University of 
+Medicine and Health Science Affiliated Hospital, Shanghai, China.
+(4)Jiangwan Hospital of Shanghai Hongkou District, Shanghai University of 
+Medicine and Health Science Affiliated Hospital, Shanghai, China. Electronic 
+address: zhaoyinjiao166@163.com.
+
+PURPOSE: This study aimed to investigate the impact of depressive symptoms and 
+changes in depressive status on falls among middle-aged and older population in 
+China.
+METHODS: We used two waves of interview data (time 1 [T1] and time 2 [T2], 
+2 years from T1) from a nationally representative sample of the China Health and 
+Retirement Longitudinal Study (CHARLS), which included a total of 14,356 
+participants (male 6859; mean age: 59.5 ± 9.3 years). Depressive symptoms were 
+assessed using the 10-item short form of the Center for Epidemiologic Studies 
+Depression Scale (CES-D-10). Participants were categorized into four groups 
+based on changes in their CES-D-10 scores over a 2-year follow-up period. 
+Self-reported falls were evaluated, and logistic regression models and 
+restricted cubic splines (RCS) were employed to examine the relationship between 
+depressive symptoms and fallen.
+RESULTS: Participants who had experienced falls had higher CES-D-10 scores and 
+were more likely to have depressive symptoms. Depressive symptoms at T1 were 
+significantly associated with falls during the follow-up period. After adjusting 
+for covariables, increasing CES-D-10 scores were associated with higher adjusted 
+odds ratios (ORs) for falling prevalence: 1.230 (95 % CI, 1.041-1.453), 1.579 
+(95 % CI, 1.331-1.873), 1.745 (95 % CI, 1.472-2.070), and 2.366 (95 % CI, 
+1.972-2.838). Participants who experienced depressive symptoms at either T1 or 
+T2, as well as those with persistent depressive symptoms from T1 to T2, were 
+both at higher risk for future falls. The worsening of depressive symptoms 
+significantly increased the likelihood of falls.
+CONCLUSION: This study revealed a significant association between depressive 
+symptoms and changes in depressive status with subsequent falls in older adults. 
+The heightened fall risk among individuals with depressive symptoms underscores 
+the importance of addressing mental health as an integral part of comprehensive 
+fall prevention strategies.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2023.09.004
+PMID: 37683944 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no other relevant financial interests in this work.
+
+
+16. BMC Public Health. 2022 Dec 13;22(1):2337. doi: 10.1186/s12889-022-14753-x.
+
+Influencing factors of weak grip strength and fall: a study based on the China 
+Health and Retirement Longitudinal Study (CHARLS).
+
+Liu H(1), Hou Y(1), Li H(2), Lin J(3).
+
+Author information:
+(1)Arthritis Clinic & Research Center, Peking University People's Hospital, 
+Peking University, 100044, Beijing, China.
+(2)Arthritis Clinic & Research Center, Peking University People's Hospital, 
+Peking University, 100044, Beijing, China. chinalihu@sina.com.
+(3)Arthritis Clinic & Research Center, Peking University People's Hospital, 
+Peking University, 100044, Beijing, China. linjianhao@pkuph.edu.cn.
+
+BACKGROUND: Fall is a major cause of mortality and cause a significant burden on 
+the healthcare system and economic system. Weak grip strength signifies impaired 
+function. Older people with weak grip strength are at a higher risk of death. 
+China has the largest ageing population in the world today. This study aims to 
+analyze the factors contributing to weak grip strength and fall among Chinese.
+METHODS: This study analyzed data from the 2011 baseline and 2015 follow-up 
+survey of the China Health and Retirement Longitudinal Study (CHARLS). To 
+identify the risk factors of fall and weak grip strength, we used a stepwise 
+multivariable logistic regression model and a least absolute shrinkage and 
+selection operator (LASSO) regression model.
+RESULTS: In the LASSO regression model, all the risk factors were not shrunken. 
+In the stepwise logistic regression model, adjusted for gender, age, grip 
+strength, depression, and chronic disease, we found that female (aOR = 1.376, 
+95% CI = 1.243-1.523; P < 0.001), history of ischemic stroke (aOR = 1.786, 95% 
+CI = 1.263-2.524; P = 0.001), depression (aOR = 1.559, 95% CI = 1.396-1.742; 
+P < 0.001), weak grip strength (aOR = 1.285, 95% CI = 1.105-1.494; P = 0.001), 
+older age (aOR = 1.227, 95% CI = 1.163-1.294; P < 0.001), rheumatoid arthritis 
+(aOR = 1.410, 95% CI = 1.270-1.560; P < 0.001), history of kidney disease 
+(aOR = 1.383, 95% CI = 1.136-1.682; P = 0.001) were factors associated with fall 
+significantly. After further adjusting, we found the risk factors of weak grip 
+strength included symptomatic knee osteoarthritis (aOR = 1.755, 95% CI 
+1.158-2.661; P = 0.008), living in rural area (aOR = 2.056, 95% CI 1.290-3.277; 
+P = 0.002), depression (aOR = 1.523, 95% CI 1.116-2.078; P = 0.008), older age 
+(aOR = 2.116, 95% CI 1.801-2.486; P < 0.001).
+CONCLUSION: From the study, we found that older age and depression were risk 
+factors of weak grip strength and fall. Weak grip strength was a risk factor of 
+fall. Female, ischemic stroke, kidney disease, rheumatoid arthritis were risk 
+factors of fall; living in rural area and symptomatic knee osteoarthritis were 
+risk factors of weak grip strength.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12889-022-14753-x
+PMCID: PMC9749312
+PMID: 36514090 [Indexed for MEDLINE]
+
+Conflict of interest statement: The corresponding authors and co-authors declare 
+that there are no conflicts of interest to disclose concerning the publication 
+of this article.
+
+
+17. J Affect Disord. 2024 Jun 15;355:22-30. doi: 10.1016/j.jad.2024.03.110. Epub 
+2024 Mar 26.
+
+Adverse childhood experiences and mental health disorder in China: A nationwide 
+study from CHARLS.
+
+Ma N(1), Ji X(2), Shi Y(2), Wang Q(2), Wu J(3), Cui X(4), Niu W(5).
+
+Author information:
+(1)Graduate School, Beijing University of Chinese Medicine, Beijing, China; 
+Beijing University of Chinese Medicine Third Affiliated Hospital, Beijing, 
+China.
+(2)Graduate School, Beijing University of Chinese Medicine, Beijing, China.
+(3)Center for Evidence-Based Medicine, Capital Institute of Pediatrics, Beijing, 
+China. Electronic address: wujing20221120@163.com.
+(4)Beijing University of Chinese Medicine Third Affiliated Hospital, Beijing, 
+China. Electronic address: cuixia68@163.com.
+(5)Center for Evidence-Based Medicine, Capital Institute of Pediatrics, Beijing, 
+China. Electronic address: niuwenquan_shcn@163.com.
+
+OBJECTIVES: Mental health disorder is highly prevalent worldwide, and factors 
+attributable to its development have not been fully understood. We aimed to 
+explore the association of adverse childhood experiences (ACEs) with mental 
+health disorder using data from the China Health and Retirement Longitudinal 
+Study (CHARLS).
+METHODS: CHARLS is an ongoing nationwide survey enrolling 17,708 residents aged 
+≥45 years in China. Total 20 ACE indicators were extracted. Unmeasured 
+confounding and potential mediation were assessed, and effect-size estimates are 
+expressed as odds ratio (OR) with 95 % confidence interval (CI).
+RESULTS: Of 10,961 assessable participants with complete information, 3652 were 
+reported to have mental health disorder. The risk for mental health disorder was 
+increased by 20.7 % for participants with one to less than four events of ACEs 
+(OR: 1.207, 95 % CI: 0.711 to 2.049), and this number reached 102.7 % for 
+participants with four or more events (OR: 2.027, 95 % CI: 1.196 to 3.436) 
+relative to those with no ACE. In subgroup analyses, between-group risk 
+estimates differed significantly for residence, marital status, personal asset, 
+life satisfaction, and living standard. The E-value of 2.35 for ACEs of 4 or 
+more events indicated the low likelihood of unmeasured confounders. In mediation 
+analyses, the proportion eliminated was 5.1 % for continuous ACEs and 6.1 % for 
+categorical ACEs (both P < 0.001).
+DISCUSSION: Our findings indicate that ACEs, especially with four or more 
+events, can predict the significant risk of mental health disorder, underscoring 
+the necessity of screening mental illness based on ACEs to reduce the resultant 
+morbidity and mortality in China.
+
+Copyright © 2024 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2024.03.110
+PMID: 38548193 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest All authors 
+declare no competing interests.
+
+
+18. Front Public Health. 2024 Feb 13;12:1320918. doi: 10.3389/fpubh.2024.1320918.
+ eCollection 2024.
+
+The effect of insulin resistance in the association between obesity and 
+hypertension incidence among Chinese middle-aged and older adults: data from 
+China health and retirement longitudinal study (CHARLS).
+
+Niu ZJ(1)(2), Cui Y(3), Wei T(2), Dou M(2), Zheng BX(2), Deng G(2), Tian PX(2), 
+Wang Y(1)(4).
+
+Author information:
+(1)Department of Cardiovascular Medicine, First Affiliated Hospital of Xi'an 
+Jiaotong University, Xi'an, China.
+(2)Department of Kidney Transplantation, Hospital of Nephropathy, The First 
+Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.
+(3)Department of Neurological Rehabilitation, North Hospital, Xi'an 
+International Medical Center Hospital, Xi'an, China.
+(4)Key Laboratory of Molecular Cardiology of Shaanxi Province, Xi'an, China.
+
+BACKGROUND AND AIMS: Obesity and insulin resistance are well-known important 
+risk factors for hypertension. This study aimed to investigate the mediating 
+effect of the triglyceride-glucose index (TyG) in the association between 
+Chinese visceral obesity index (CVAI) and hypertension among Chinese middle-aged 
+and older adults.
+METHODS: A total of 10,322 participants aged 45 years and older from CHARLS 
+(2011-2018) were included. Baseline data were collected in 2011 and hypertension 
+incidence data were gathered during follow-up in 2013, 2015 and 2018. 
+Multivariate logistic regression models were constructed to investigate the 
+association of CVAI and TyG with the incidence of hypertension. Additionally, 
+mediation analyses were conducted to evaluate the mediating role of the TyG 
+index in the relationship between CVAI and hypertension. Subgroup analysis was 
+also performed.
+RESULTS: A total of 2,802 participants developed hypertension during the 
+follow-up period. CVAI and TyG index were independently and significantly 
+associated with hypertension incidence. Increasing quartiles of CVAI and TyG 
+index were associated with high hypertension incidence in middle-aged and older 
+adults. The TyG index was identified as a mediator in the relationship between 
+CVAI and hypertension incidence, with a mediation effect (95% confidence 
+interval) was 12.38% (6.75, 31.81%).
+CONCLUSION: Our study found that CVAI and TyG were independently associated with 
+hypertension incidence. TyG played a partial mediating effect in the positive 
+association between CVAI and hypertension incidence.
+
+Copyright © 2024 Niu, Cui, Wei, Dou, Zheng, Deng, Tian and Wang.
+
+DOI: 10.3389/fpubh.2024.1320918
+PMCID: PMC10898648
+PMID: 38414903 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+19. Int J Cardiol. 2024 Jun 15;405:131946. doi: 10.1016/j.ijcard.2024.131946.
+Epub  2024 Mar 7.
+
+Investigating the impact of remnant cholesterol on new-onset stroke across 
+diverse inflammation levels: Insights from the China Health and Retirement 
+Longitudinal Study (CHARLS).
+
+Xiong CC(1), Gao F(2), Zhang JH(1), Ruan Y(3), Gao TG(1), Cai JY(3), Liu SF(4).
+
+Author information:
+(1)Department of Cardiology, Zhongshan Hospital of Xiamen University, School of 
+Medicine, Xiamen University, Xiamen, China.
+(2)Department of Cardiology, Zhongshan Hospital of Xiamen University, School of 
+Medicine, Xiamen University, Xiamen, China; The School of Clinical Medicine, 
+Fujian Medical University, Fuzhou, China.
+(3)The School of Clinical Medicine, Fujian Medical University, Fuzhou, China.
+(4)Department of Cardiology, Zhongshan Hospital of Xiamen University, School of 
+Medicine, Xiamen University, Xiamen, China. Electronic address: 
+liujiasuifeng@gmail.com.
+
+BACKGROUND: Prior research underscores the significant impact of remnant 
+cholesterol (RC) on stroke occurrence due to its proatherogenic and 
+proinflammatory traits. This study aims to explore diverse risks of new-onset 
+stroke associated with RC, considering distinct inflammation levels in the 
+middle-aged and senior population in China.
+METHODS: We analyzed 6509 participants from the China Health and Retirement 
+Longitudinal Study (CHARLS) across four waves (2011-2018). We employed a 
+multivariable Cox proportional hazards regression model, incorporated restricted 
+cubic spline techniques, and conducted sensitivity analyses to evaluate the 
+association among RC, high-sensitivity C-reactive protein (hsCRP), and the risk 
+of new-onset stroke.
+RESULTS: Over 7 years, 540 new-onset strokes occurred. Individuals in the 
+highest quartile of RC levels exhibited a heightened risk of new-onset stroke, 
+with a multivariable-adjusted hazard ratio (HR) peaking at 1.50 (95% confidence 
+interval 1.12-2.00, P for trend = 0.021), showing a non-linear correlation (P 
+nonlinearity = 0.049). High hsCRP alone had an adjusted HR of 1.10 (95% CI 
+0.87-1.39), compared to 1.40 (95% CI 1.00-1.96) for high RC alone. Additionally, 
+concurrent high RC and hsCRP showed an adjusted HR of 1.43 (95% CI 1.05-1.96). 
+Consistency persisted across various hsCRP thresholds, after adjusting for 
+additional parameters, or excluding chronic diseases in the primary model, 
+reinforcing result robustness.
+CONCLUSION: Our findings reveal a substantial and non-linear association between 
+higher baseline RC levels and an elevated risk of new-onset stroke. Moreover, 
+elevated levels of both RC and hsCRP jointly pose the highest risk for new-onset 
+stroke, surpassing the risk associated with each factor individually.
+
+Copyright © 2024 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijcard.2024.131946
+PMID: 38460732 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+report no relationships that could be construed as a conflict of interest.
+
+
+20. BMC Geriatr. 2022 Jun 1;22(1):470. doi: 10.1186/s12877-022-03154-9.
+
+Multimorbidity patterns and associated factors in older Chinese: results from 
+the China health and retirement longitudinal study.
+
+Zhang Q(1), Han X(2), Zhao X(3), Wang Y(4).
+
+Author information:
+(1)National School of Development, Peking University, No.5 Yiheyuan Road, 
+Beijing, 100872, China.
+(2)School of Health Humanities, Peking University, No. 38 Xueyuan Road, Beijing, 
+100191, China.
+(3)School of Health Humanities, Peking University, No. 38 Xueyuan Road, Beijing, 
+100191, China. zhaoxinyi@hsc.pku.edu.cn.
+(4)School of Health Humanities, Peking University, No. 38 Xueyuan Road, Beijing, 
+100191, China. wangyues@bjmu.edu.cn.
+
+BACKGROUND: This study aimed to investigate multimorbidity patterns and their 
+associated factors among elderly population in China.
+METHODS: A total of 10,479 participants aged at least 60 years were drawn from 
+the 2018 wave of the China Health and Retirement Longitudinal Study (CHARLS). 
+Latent class analysis (LCA) was performed to identify distinct multimorbidity 
+classes based on 14 self-reported chronic conditions. The multinomial logit 
+model was used to analyze the associated factors of multimorbidity patterns, 
+focusing on individuals' demographic characteristics, socioeconomic status 
+(SES), and health behaviors.
+RESULTS: Among the 10,479 participants (mean age [SD]: 69.1 [7.1]), 65.6% were 
+identified with multimorbidity. Five multimorbidity clusters were identified by 
+LCA: relatively healthy class (49.8%), vascular class (24.7%), respiratory class 
+(5.6%), stomach-arthritis class (14.5%), and multisystem morbidity class (5.4%). 
+Multinomial logit analysis with the relatively healthy class as the reference 
+showed that participants of older age and female sex were more likely to be in 
+the vascular class and multisystem morbidity class. The probability of being in 
+the vascular class was significantly higher for those with high SES. Ever 
+smoking was associated with a higher probability of being in the respiratory 
+class and multisystem morbidity class. Physical activity was associated with 
+lower odds of being assigned to the vascular class, respiratory class, and 
+multisystem class.
+CONCLUSION: The distinct multimorbidity patterns imply that the prevention and 
+care strategy should target a group of diseases instead of a single condition. 
+Prevention interventions should be paid attention to for individuals with risk 
+factors.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12877-022-03154-9
+PMCID: PMC9158229
+PMID: 35641904 [Indexed for MEDLINE]
+
+Conflict of interest statement: All the authors have no financial or any other 
+kind of personal conflicts with this manuscript. Dr Yue Wang has received the 
+grant from the National Health Commission of the People’s Republic of China 
+(Grant code: FZS2018-05). Dr Xinyi Zhao has received the grant from the National 
+Natural Science Foundation of China (Grant code: 71704006). The funding agencies 
+had no direct role in the conduct of the study; the collection, management, 
+analyses, or interpretation of the data; or preparation or approval of the 
+manuscript.
+
+
+21. Clin Nutr. 2025 Jun;49:69-76. doi: 10.1016/j.clnu.2025.04.003. Epub 2025 Apr
+5.
+
+Associations between sarcopenic, obesity, and sarcopenic obesity and metabolic 
+syndrome in adults aged 45 Years or older: A prospective cohort study from the 
+China health and retirement longitudinal study.
+
+Li Y(1), Wang Y(2), Gao J(1), Meng T(3), Yin H(4).
+
+Author information:
+(1)Department of Orthopedics, Shanghai General Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China.
+(2)School of Rehabilitation Science, Shanghai University of Traditional Chinese 
+Medicine, Shanghai, China.
+(3)Department of Orthopedics, Shanghai General Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China. Electronic address: 
+mengtong@medmail.com.cn.
+(4)Department of Orthopedics, Shanghai General Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China. Electronic address: 
+yinhuabin0525@163.com.
+
+BACKGROUND: Although previous studies have reported associations between 
+sarcopenic obesity (SO) and metabolic syndrome (MetS), the findings remain 
+inconsistent. This study aimed to investigate the associations between 
+sarcopenia, obesity, and MetS, and to determine whether sarcopenic obesity 
+synergistically increases the risk of MetS.
+METHODS: The data were extracted from the China Health and Retirement 
+Longitudinal Study (CHARLS) in 2011 and 2015. Participants were categorized into 
+five groups: non-sarcopenia non-obesity, non-sarcopenia obesity, non-obesity 
+sarcopenia, possible SO, and SO. MetS was defined using the diagnostic criteria 
+recommended by the National Cholesterol Education Program Adult Treatment Panel 
+III. Logistic regression models were employed for both cross-sectional and 
+longitudinal analysis.
+RESULTS: In 2011, a total of 9322 participants were included in the 
+cross-sectional analysis, with 3674 individuals followed up in 2015. In the 
+cross-sectional study, non-sarcopenia obesity (OR = 9.20, CI: 8.06 to 10.50), 
+possible SO (OR = 2.04, CI: 1.94 to 2.15), and SO (OR = 1.61, CI: 1.47 to 1.77) 
+were associated with a higher prevalence of MetS. In contrast, non-obesity 
+sarcopenia (OR = 0.85, CI: 0.74 to 0.98) was associated with a lower prevalence. 
+In the longitudinal analysis, non-sarcopenia obesity (OR = 2.87, CI: 2.34 to 
+3.52) and possible SO (OR = 1.41, CI: 1.30 to 1.53) were associated with an 
+increased incidence of MetS, while non-obesity sarcopenia (OR = 0.75, CI: 0.62 
+to 0.91) was associated with a reduced incidence. Notably, SO (OR = 1.00, CI: 
+0.80 to 1.25) was not associated with the incidence of MetS.
+CONCLUSION: Possible SO, defined by low muscle mass, was not associated with 
+subsequent new-onset MetS. This study highlights that the obesity component, 
+rather than the muscle mass component, is the primary driver of MetS risk in 
+middle-aged and older adults in China.
+
+Copyright © 2025 Elsevier Ltd and European Society for Clinical Nutrition and 
+Metabolism. All rights reserved.
+
+DOI: 10.1016/j.clnu.2025.04.003
+PMID: 40252600 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest The authors declare that 
+they have no known competing financial interests or personal relationships that 
+could have appeared to influence the work reported in this paper.
+
+
+22. Sci Total Environ. 2023 Jan 15;856(Pt 2):159035. doi: 
+10.1016/j.scitotenv.2022.159035. Epub 2022 Sep 30.
+
+Association between solid fuel use and nonfatal cardiovascular disease among 
+middle-aged and older adults: Findings from The China Health and Retirement 
+Longitudinal Study (CHARLS).
+
+Liu Y(1), Ning N(1), Sun T(2), Guan H(3), Liu Z(4), Yang W(5), Ma Y(6).
+
+Author information:
+(1)Department of Biostatistics and Epidemiology, School of Public Health, China 
+Medical University, Shenyang, Liaoning, China.
+(2)School of Nursing, Bengbu Medical College, Bengbu, Anhui, China.
+(3)School of Public Health, Peking University, Beijing, China.
+(4)School of Public Health and the Second Affiliated Hospital, The Key 
+Laboratory of Intelligent Preventive Medicine of Zhejiang Province, Zhejiang 
+University School of Medicine, Hangzhou, China.
+(5)Department of Nutrition, School of Public Health, Anhui Medical University, 
+Hefei, Anhui, China.
+(6)Department of Biostatistics and Epidemiology, School of Public Health, China 
+Medical University, Shenyang, Liaoning, China. Electronic address: 
+ynma@cmu.edu.cn.
+
+BACKGROUND: Few studies have been conducted on the association between domestic 
+solid fuel combustion and incident nonfatal cardiovascular disease (CVD). We 
+assessed the prospective association between domestic fuel type and incident 
+nonfatal CVD among Chinese adults aged ≥45 years.
+METHODS: This was a prospective cohort study using data from the China 
+Longitudinal Study of Health and Retirement (CHARLS) that recruited 8803 
+participants ≥45 years in 2013. Household fuel types were assessed based on 
+self-reports, including solid fuel (coal, crop residue, or wood fuel) and clean 
+fuel (central heating, solar power, natural gas, liquefied petroleum gas, 
+electricity, or marsh gas). Nonfatal CVD was defined as self-reported 
+physician-diagnosed nonfatal CVD. We established Cox proportional hazard 
+regression models with age as the time scale and strata by sex to evaluate the 
+hazard ratios (HRs) and 95 % confidence intervals (95 % CIs).
+RESULTS: After a median follow-up of five years, 970 (11.02 %) nonfatal CVD 
+cases were documented, including 423 (9.96 %) in males and 547 (12.01 %) in 
+females. Participants with exposure to solid fuel for cooking and clean fuel for 
+heating [HR (95 % CI):2.01 (1.36-2.96)], solid fuel for heating and clean fuel 
+for cooking [HR (95 % CI):1.45 (1.06-1.99)], and solid fuel for both heating and 
+cooking [HR (95 % CI):1.43 (1.07-1.92)] had an elevated nonfatal CVD risk 
+compared to users of cleaner fuel for both cooking and heating. Those whom 
+self-reported switching from solid fuels to cleaner fuels for cooking had 
+significantly decreased nonfatal CVD risk [HR (95 % CI):0.76 (0.58-0.99)] than 
+participants who did not switch to cleaner fuels.
+CONCLUSIONS: Exposure to domestic solid fuel burning for cooking or heating is 
+associated with an elevated nonfatal CVD risk. Notably, switching cooking fuels 
+from solid to cleaner fuels is related to a reduced risk of nonfatal CVD.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2022.159035
+PMID: 36191716 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+23. J Affect Disord. 2024 Apr 15;351:518-526. doi: 10.1016/j.jad.2024.01.256.
+Epub  2024 Feb 1.
+
+The association between functional disability and depressive symptoms among 
+older adults: Findings from the China Health and Retirement Longitudinal Study 
+(CHARLS).
+
+Wang W(1), Liu Y(1), Ji D(2), Xie K(3), Yang Y(1), Zhu X(1), Feng Z(1), Guo 
+H(4), Wang B(5).
+
+Author information:
+(1)School of Public Health, Southeast University, Nanjing, Jiangsu, China.
+(2)Jiangsu Provincial Center for Disease Control and Prevention, Nanjing, 
+Jiangsu, China.
+(3)Stomatology Hospital, School of Stomatology, Zhejiang University School of 
+Medicine, Hangzhou, Zhejiang, China.
+(4)Jiangsu Provincial Center for Disease Control and Prevention, Nanjing, 
+Jiangsu, China. Electronic address: guohjcdc@163.com.
+(5)School of Public Health, Southeast University, Nanjing, Jiangsu, China. 
+Electronic address: wangbeilxb@163.com.
+
+BACKGROUND: Previous research has shown that depressive symptoms in older adults 
+was associated with functional disability, including basic activities of daily 
+living (BADLs) and instrumental activities of daily living (IADLs). However, 
+little is known about the impact of different patterns of functional disability 
+and new-onset functional disability on subsequent depressive symptoms.
+OBJECTIVE: To determine the effect of various patterns of functional disability 
+and new-onset functional disability on depressive symptoms among Chinese older 
+adults aged 60 years and above.
+METHOD: The study included 3242 older adults from the China Health and 
+Retirement Longitudinal Study (CHARLS), which was conducted from 2011 to 2018. 
+Cox proportional hazards models were used to investigate the associations 
+between patterns of functional disability and depressive symptoms. The 
+associations were also examined in the population with new-onset functional 
+disability.
+RESULT: During 15,321 person-years of follow-up, 946 depressive symptoms 
+occurred. The hazard ratios (HRs) of depressive symptoms were 1.29 (95 % 
+confidence intervals [CI]: 1.05-1.58) for IADLs disability, 1.22 (95 % CI: 
+0.75-1.55) for BADLs disability, and 1.78 (95 % CI: 1.41-2.22) for both IADLs 
+and BADLs disabilities. In the analysis of new-onset functional disability, the 
+HRs were 1.50 (95 % CI: 1.06-2.13) for onset IADLs disability, 1.28 (95 % CI: 
+0.85-1.91) for onset BADLs disability, and 1.69 (95 % CI: 1.03-2.76) for both 
+onset BADLs and IADLs disabilities.
+LIMITATIONS: Depressive symptoms were assessed using the Centre for 
+Epidemiological Studies Depression Scale, which has limitations in diagnosing 
+clinical depression.
+CONCLUSION: Functional disability increases the risk of depressive symptoms, 
+particularly impaired IADLs function. Psychological care for older adults with 
+functional disability should be strengthened.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2024.01.256
+PMID: 38307133 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+24. Global Health. 2024 Jul 3;20(1):53. doi: 10.1186/s12992-024-01056-6.
+
+Internet use and frailty in middle-aged and older adults: findings from 
+developed and developing countries.
+
+Li L(1).
+
+Author information:
+(1)Department of Health Statistics, School of Public Health, China Medical 
+University, ShenYang, China. 2418@liang.email.cn.
+
+BACKGROUND: With increasing trend of internet use in all age groups, whether 
+internet use can prevent frailty in middle-aged and older adults remains 
+unclear.
+METHODS: Five cohorts, including Health and Retirement Study (HRS), China Health 
+and Retirement Longitudinal Study (CHARLS), the Survey of Health, Ageing and 
+Retirement in Europe (SHARE), English Longitudinal Study of Aging (ELSA), and 
+Mexican Health and Aging Study (MHAS), were used in this study. Internet use, 
+social isolation, and frailty status was assessed using similar questions. The 
+Generalized estimating equations models, random effects meta-analysis, COX 
+regression, and mediation analysis were utilized.
+RESULTS: In the multicohort study, a total of 155,695 participants were included 
+in main analysis. The proportion of internet use was varied across countries, 
+ranging from 5.56% in China (CHARLS) to 83.46% in Denmark (SHARE). According to 
+the generalized estimating equations models and meta-analysis, internet use was 
+inversely associated with frailty, with the pooled ORs (95%CIs) of 0.72 
+(0.67,0.79). The COX regression also showed that participants with internet use 
+had a lower risk of frailty incidence. Additionally, the association was 
+partially mediated by social isolation and slightly pronounced in participants 
+aged 65 and over, male, not working for payment, not married or partnered, not 
+smoking, drinking, and not co-residence with children.
+CONCLUSIONS: Our findings highlight the important role of internet use in 
+preventing frailty and recommend more engagements in social communication and 
+activities to avoid social isolation among middle-aged and older adults.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12992-024-01056-6
+PMCID: PMC11223306
+PMID: 38961440 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+25. Ecotoxicol Environ Saf. 2024 Apr 15;275:116247. doi: 
+10.1016/j.ecoenv.2024.116247. Epub 2024 Mar 23.
+
+Association between cooking fuel exposure and respiratory health: Longitudinal 
+evidence from the China Health and Retirement Longitudinal Study (CHARLS).
+
+Yang K(1), Chen R(2).
+
+Author information:
+(1)Department of Pulmonary and Critical Care Medicine, Shenzhen Institute of 
+Respiratory Diseases, First Affiliated Hospital of Southern University of 
+Science and Technology (Shenzhen People's Hospital, Second Clinical Medical 
+College of Jinan University), Shenzhen 518001, China.
+(2)Department of Pulmonary and Critical Care Medicine, Shenzhen Institute of 
+Respiratory Diseases, First Affiliated Hospital of Southern University of 
+Science and Technology (Shenzhen People's Hospital, Second Clinical Medical 
+College of Jinan University), Shenzhen 518001, China. Electronic address: 
+chen.rc@szhospital.com.
+
+The epidemiological evidences for the association between cooking fuel exposure 
+and respiratory health were inconsistent, and repeated-measures prospective 
+evaluation of cooking fuel exposure was still lacking. We assessed the 
+longitudinal association of chronic lung disease (CLD) and lung function with 
+cooking fuel types among Chinese adults aged ≥ 40 years. In this prospective, 
+nationwide representative cohort of the China Health and Retirement Longitudinal 
+Study from 2011 to 2018, 9004 participants from 28 provinces in China were 
+included. CLD was identified based on self-reported physician diagnosis in 2018. 
+Lung function was assessed by peak expiratory flow (PEF) in 2011, 2013 and 2015. 
+Multivariable logistic and linear mixed-effects repeated-measures models were 
+conducted to measure the associations of CLD and PEF with cooking fuel types. 
+Three-level mixed-effects model was performed as sensitivity analysis. Among the 
+participants, 3508 and 3548 participants used persistent solid and clean cooking 
+fuels throughout the survey, and 1948 participants who used solid cooking fuels 
+at baseline switched to clean cooking fuels. Use of persistent clean cooking 
+fuels (adjusted odds ratio [aOR] = 0.73, 95 % confidence interval [CI]: 0.61, 
+0.88) and switch of solid fuels to clean fuels (aOR = 0.81, 95 % CI: 0.67, 0.98) 
+were associated with lower risk of CLD. The use of clean cooking fuels 
+throughout the survey and switch of solid fuels to clean fuels in 2013 were also 
+significantly associated with higher PEF level. Similar results were observed in 
+stratified analyses and different statistical models. The evidence from CHARLS 
+cohort suggested that reducing solid cooking fuel exposure was associated with 
+lower risk of CLD and better lung function. Given the recent evidence, improving 
+household air quality will reduce the burden of chronic lung diseases.
+
+Copyright © 2024 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2024.116247
+PMID: 38520808 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+26. BMC Public Health. 2024 Feb 22;24(1):559. doi: 10.1186/s12889-024-17890-7.
+
+Trajectories network analysis of chronic diseases among middle-aged and older 
+adults: evidence from the China Health and Retirement Longitudinal Study 
+(CHARLS).
+
+Chen J(#)(1), Zhang F(#)(1), Zhang Y(2), Lin Z(1), Deng K(3), Hou Q(3), Li L(4), 
+Gao Y(5).
+
+Author information:
+(1)Department of Public Health and Preventive Medicine, School of Medicine, 
+Jinan University, Guangzhou, Guangdong, China.
+(2)Guangdong Provincial Institute of Sports Science, Guangzhou, Guangdong, 
+China.
+(3)School of Public Health, Guangdong Pharmaceutical University, Guangzhou, 
+Guangdong, China.
+(4)School of Public Health, Guangdong Pharmaceutical University, Guangzhou, 
+Guangdong, China. llx19@163.com.
+(5)Department of Public Health and Preventive Medicine, School of Medicine, 
+Jinan University, Guangzhou, Guangdong, China. gaoyanhui@jnu.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: Given the increased risk of chronic diseases and comorbidity among 
+middle-aged and older adults in China, it is pivotal to identify the disease 
+trajectory of developing chronic multimorbidity and address the temporal 
+correlation among chronic diseases.
+METHOD: The data of 15895 participants from the China Health and Retirement 
+Longitudinal Study (CHARLS 2011 - 2018) were analyzed in the current study. 
+Binomial tests and the conditional logistic regression model were conducted to 
+estimate the associations among 14 chronic diseases, and the disease trajectory 
+network analysis was adopted to visualize the relationships.
+RESULTS: The analysis showed that hypertension is the most prevalent disease 
+among the 14 chronic conditions, with the highest cumulative incidence among all 
+chronic diseases. In the disease trajectory network, arthritis was found to be 
+the starting point, and digestive diseases, hypertension, heart diseases, and 
+dyslipidemia were at the center, while memory-related disease (MRD), stroke, and 
+diabetes were at the periphery of the network.
+CONCLUSIONS: With the chronic disease trajectory network analysis, we found that 
+arthritis was prone to the occurrence and development of various other diseases. 
+In addition, patients of heart diseases/hypertension/digestive 
+disease/dyslipidemia were under higher risk of developing other chronic 
+conditions. For patients with multimorbidity, early prevention can preclude them 
+from developing into poorer conditions, such as stroke, MRD, and diabetes. By 
+identifying the trajectory network of chronic disease, the results provided 
+critical insights for developing early prevention and individualized support 
+services to reduce disease burden and improve patients' quality of life.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12889-024-17890-7
+PMCID: PMC10882875
+PMID: 38389048 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+27. J Nutr Health Aging. 2023;27(3):196-201. doi: 10.1007/s12603-023-1892-2.
+
+Associations of Pain and Sarcopenia with Successful Aging among Older People in 
+China: Evidence from CHARLS.
+
+Zhu X(1), Zhang X, Ding L, Tang Y, Xu A, Yang F, Qiao G, Gao X, Zhou J.
+
+Author information:
+(1)Xinhong Zhu, Nursing Educator, School of Nursing, Hubei University of Chinese 
+Medicine, Wuhan, China, phone: +86027-688890395; zxh88@hbtcm.edu.cn.
+
+Comment in
+    J Nutr Health Aging. 2023;27(3):192-193. doi: 10.1007/s12603-023-1097-1.
+    J Nutr Health Aging. 2023;27(3):194-195. doi: 10.1007/s12603-023-1098-1.
+
+OBJECTIVES: Sarcopenia and chronic pain are geriatric syndromes that negatively 
+impact the lives of older people. The aim of this study was to explore the 
+relationship among sarcopenia, pain, and successful aging among older persons 
+participating in the China Health and Retirement Longitudinal Study (CHARLS).
+DESIGN: Cohort study with a 2-year follow-up.
+SETTING AND PARTICIPANTS: Data were derived from 2 waves of the CHARLS, and 4280 
+community-dwelling participants aged ≥ 60 years were included in the study.
+METHODS: Sarcopenia status was defined according to the Asian Working Group for 
+Sarcopenia 2019 (AWGS 2019) criteria. Successful aging was defined following 
+Rowe and Kahn's multidimensional model. Pain was assessed by a self-reported 
+questionnaire. A generalized estimating equation (GEE) was used to examine the 
+associations.
+RESULTS: Longitudinal results demonstrated that compared with no sarcopenia, 
+possible sarcopenia [OR (95%CI): 0.600 (0.304~1.188)] was not significantly 
+associated with successful aging. Pain only was strongly associated with 
+successful aging [0.388 (0.251~0.600)], whereas the association between 
+sarcopenia only and successful aging was weaker [0.509 (0.287~0.905)]. The 
+likelihood of being successful aging was substantially lower in the presence of 
+coexisting sarcopenia and pain [0.268 (0.108~0.759)].
+CONCLUSIONS: Both pain and sarcopenia are significant predictors for achieving 

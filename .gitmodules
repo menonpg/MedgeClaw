@@ -2,3 +2,6 @@
 	path = scientific-skills
 	url = https://github.com/K-Dense-AI/claude-scientific-skills.git
 	branch = main
+[submodule "scientific-writer"]
+	path = scientific-writer
+	url = https://github.com/K-Dense-AI/claude-scientific-writer.git

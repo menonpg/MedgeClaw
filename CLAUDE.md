@@ -95,6 +95,39 @@ Skills 位于 `scientific-skills/scientific-skills/` 目录，每个子目录包
 
 如果不确定用哪个 skill，可以 `ls scientific-skills/scientific-skills/` 浏览完整列表。
 
+## Scientific Writer 参考（K-Dense）
+
+**遇到学术写作、文献综述、基金申请、临床报告等写作任务时，必须查阅 Scientific Writer Skills。**
+
+Skills 位于 `scientific-writer/skills/` 目录，每个子目录包含一个 `SKILL.md`。
+项目级指令见 `scientific-writer/CLAUDE.md`。
+
+### 常见写作任务 → Skill 映射
+
+| 任务类型 | 推荐 Skill |
+|----------|-----------|
+| 科研论文（IMRaD） | `scientific-writing` |
+| 文献综述 | `literature-review` |
+| 基金申请书 | `research-grants` |
+| 临床报告 | `clinical-reports` |
+| 临床决策支持 | `clinical-decision-support` |
+| 治疗方案 | `treatment-plans` |
+| 市场研究报告 | `market-research-reports` |
+| 引用管理/BibTeX | `citation-management` |
+| 实时文献检索 | `research-lookup` |
+| 科学示意图 | `scientific-schematics` |
+| AI 图像生成 | `generate-image` |
+| 学术幻灯片 | `scientific-slides` |
+| 学术海报（LaTeX） | `latex-posters` |
+| 学术海报（PPTX） | `pptx-posters` |
+| 论文转网页/视频 | `paper-2-web` |
+| 同行评审 | `peer-review` |
+| 科学批判性思维 | `scientific-critical-thinking` |
+| 学术评价 | `scholar-evaluation` |
+| 期刊/会议模板 | `venue-templates` |
+| 假设生成 | `hypothesis-generation` |
+| 文档格式转换 | `markitdown` |
+
 ### 重要原则
 
 - Skills 是**参考资料**，不是死板的模板。根据实际需求灵活运用。

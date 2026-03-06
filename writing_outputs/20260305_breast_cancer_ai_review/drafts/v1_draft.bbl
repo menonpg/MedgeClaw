@@ -1,0 +1,323 @@
+\begin{thebibliography}{}
+
+\bibitem[Abdullah et~al., 2025]{abdullah2025deep}
+Abdullah, K.~A., Marziali, S., Nanaa, M., Escudero~S{\'a}nchez, L., Payne,
+  N.~R., and Gilbert, F.~J. (2025).
+\newblock Deep learning-based breast cancer diagnosis in breast {MRI}:
+  systematic review and meta-analysis.
+\newblock {\em European Radiology}, 35(8):4474--4489.
+
+\bibitem[Adam et~al., 2023]{adam2023deep}
+Adam, R., Dell'Aquila, K., Hodges, L., Maldjian, T., and Duong, T.~Q. (2023).
+\newblock Deep learning applications to breast cancer detection by magnetic
+  resonance imaging: a literature review.
+\newblock {\em Breast Cancer Research}, 25(1):87.
+
+\bibitem[Al-Karawi et~al., 2024]{alkarawi2024review}
+Al-Karawi, D., Al-Zaidi, S., Helael, K.~A., Obeidat, N., Mouhsen, A.~M., Ajam,
+  T., Alshalabi, B.~A., Salman, M., and Ahmed, M.~H. (2024).
+\newblock A review of artificial intelligence in breast imaging.
+\newblock {\em Tomography}, 10(5):705--726.
+
+\bibitem[Al~Muhaisen et~al., 2024]{almuhaisen2024ai}
+Al~Muhaisen, S., Safi, O., Ulayan, A., Aljawamis, S., Fakhoury, M., Baydoun,
+  H., and Abuquteish, D. (2024).
+\newblock Artificial intelligence-powered mammography: Navigating the landscape
+  of deep learning for breast cancer detection.
+\newblock {\em Cureus}, 16(3):e56945.
+
+\bibitem[Arun~Kumar and Sasikala, 2023]{arunkumar2023review}
+Arun~Kumar, S. and Sasikala, S. (2023).
+\newblock Review on deep learning-based {CAD} systems for breast cancer
+  diagnosis.
+\newblock {\em Technology in Cancer Research \& Treatment},
+  22:15330338231177977.
+
+\bibitem[Bray et~al., 2024]{bray2024global}
+Bray, F., Laversanne, M., Sung, H., Ferlay, J., Siegel, R.~L., Soerjomataram,
+  I., and Jemal, A. (2024).
+\newblock Global cancer statistics 2022: {GLOBOCAN} estimates of incidence and
+  mortality worldwide for 36 cancers in 185 countries.
+\newblock {\em CA: A Cancer Journal for Clinicians}, 74(3):229--263.
+
+\bibitem[Byra et~al., 2019]{byra2020breast}
+Byra, M., Galperin, M., Ojeda-Fournier, H., Olson, L., O'Boyle, M., Comstock,
+  C., and Andre, M. (2019).
+\newblock Breast mass classification in sonography with transfer learning using
+  a deep convolutional neural network and color conversion.
+\newblock {\em Medical Physics}, 46(2):746--755.
+
+\bibitem[Campanella et~al., 2019]{campanella2019clinical}
+Campanella, G., Hanna, M.~G., Geneslaw, L., Miraflor, A., Werneck Krauss~Silva,
+  V., Busber, K.~J., Brber, E., and Fuchs, T.~J. (2019).
+\newblock Clinical-grade computational pathology using weakly supervised deep
+  learning on whole slide images.
+\newblock {\em Nature Medicine}, 25(8):1301--1309.
+
+\bibitem[Chen et~al., 2022]{chen2022scaling}
+Chen, R.~J., Chen, C., Li, Y., Chen, T.~Y., Trister, A.~D., Krishnan, R.~G.,
+  and Mahmood, F. (2022).
+\newblock Scaling vision transformers to gigapixel images via hierarchical
+  self-supervised learning.
+\newblock {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 16144--16155.
+
+\bibitem[Dembrower et~al., 2023]{dembrower2023artificial}
+Dembrower, K., Crippa, A., Colch{\'o}n~Soust, S., Albinsson, M., Strand, F.,
+  Salim, M., and Eklund, M. (2023).
+\newblock Artificial intelligence for breast cancer detection in screening
+  mammography in {Sweden}: a prospective, population-based, paired-reader,
+  non-inferiority study.
+\newblock {\em The Lancet Digital Health}, 5(10):e703--e711.
+
+\bibitem[Dembrower et~al., 2020]{dembrower2020effect}
+Dembrower, K., Wa{\hlstrom}, P., Liu, Y., Salim, M., Smith, K., Lindholm, P.,
+  Eklund, M., and Strand, F. (2020).
+\newblock Effect of artificial intelligence-based triaging of breast cancer
+  screening mammograms on cancer detection and radiologist workload: a
+  retrospective simulation study.
+\newblock {\em The Lancet Digital Health}, 2(9):e468--e474.
+
+\bibitem[D{\'\i}az et~al., 2024]{diaz2024artificial}
+D{\'\i}az, O., Rodr{\'\i}guez-Ru{\'\i}z, A., and Sechopoulos, I. (2024).
+\newblock Artificial intelligence for breast cancer detection: Technology,
+  challenges, and prospects.
+\newblock {\em European Journal of Radiology}, 175:111457.
+
+\bibitem[Dosovitskiy et~al., 2021]{dosovitskiy2021image}
+Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X.,
+  Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S., et~al.
+  (2021).
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale.
+\newblock {\em Proceedings of the International Conference on Learning
+  Representations}.
+
+\bibitem[Ehteshami~Bejnordi et~al., 2017]{bejnordi2017diagnostic}
+Ehteshami~Bejnordi, B., Veta, M., Johannes~van Diest, P., van Ginneken, B.,
+  Karssemeijer, N., Litjens, G., van~der Laak, J. A. W.~M., and the
+  CAMELYON16~Consortium (2017).
+\newblock Diagnostic assessment of deep learning algorithms for detection of
+  lymph node metastases in women with breast cancer.
+\newblock {\em JAMA}, 318(22):2199--2210.
+
+\bibitem[Freeman et~al., 2021]{freeman2021use}
+Freeman, K., Geppert, J., Stinton, C., Todkill, D., Johnson, S., Defined, A.,
+  Defined2, S., and Taylor-Phillips, S. (2021).
+\newblock Use of artificial intelligence for image analysis in breast cancer
+  screening programmes: systematic review of test accuracy.
+\newblock {\em BMJ}, 374:n1872.
+
+\bibitem[Fujioka et~al., 2019]{fujioka2020distinction}
+Fujioka, T., Kubota, K., Mori, M., Kikuchi, Y., Katsuta, L., Kasahara, M., Oda,
+  G., Ishiba, T., Nakagawa, T., and Tateishi, U. (2019).
+\newblock Distinction between benign and malignant breast masses at breast
+  ultrasound using deep learning method with convolutional neural network.
+\newblock {\em Japanese Journal of Radiology}, 37(6):466--472.
+
+\bibitem[Ghasemi et~al., 2024]{ghasemi2024explainable}
+Ghasemi, A., Hashtarkhani, S., Schwartz, D.~L., and Shaban-Nejad, A. (2024).
+\newblock Explainable artificial intelligence in breast cancer detection and
+  risk prediction: A systematic scoping review.
+\newblock {\em Cancer Innovation}, 3(5):e136.
+
+\bibitem[Han et~al., 2017]{han2022breast}
+Han, S., Kang, H.-K., Jeong, J.-Y., Park, M.-H., Kim, W., Bang, W.-C., and
+  Seong, Y.-K. (2017).
+\newblock A deep learning framework for supporting the classification of breast
+  lesions in ultrasound images.
+\newblock {\em Physics in Medicine \& Biology}, 62(19):7714.
+
+\bibitem[He et~al., 2016]{he2016deep}
+He, K., Zhang, X., Ren, S., and Sun, J. (2016).
+\newblock Deep residual learning for image recognition.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 770--778.
+
+\bibitem[Huang et~al., 2017]{huang2017densely}
+Huang, G., Liu, Z., Van Der~Maaten, L., and Weinberger, K.~Q. (2017).
+\newblock Densely connected convolutional networks.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 4700--4708.
+
+\bibitem[Jiang et~al., 2024]{jiang2024deep}
+Jiang, B. et~al. (2024).
+\newblock Deep learning applications in breast cancer histopathological
+  imaging: diagnosis, treatment, and prognosis.
+\newblock {\em Breast Cancer Research}, 26(1):137.
+
+\bibitem[Kim et~al., 2020]{kim2020changes}
+Kim, H.-E., Kim, H.~H., Han, B.-K., Kim, K.~H., Han, K., Nam, H., Lee, E.~H.,
+  and Kim, E.-K. (2020).
+\newblock Changes in cancer detection and false-positive recall in mammography
+  using artificial intelligence: a retrospective, multireader study.
+\newblock {\em The Lancet Digital Health}, 2(3):e138--e148.
+
+\bibitem[Krizhevsky et~al., 2012]{krizhevsky2012imagenet}
+Krizhevsky, A., Sutskever, I., and Hinton, G.~E. (2012).
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Advances in Neural Information Processing Systems},
+  25:1097--1105.
+
+\bibitem[L{\aa}ng et~al., 2023]{lang2023artificial}
+L{\aa}ng, K., Josefsson, V., Larsson, A.-M., Larsson, S., H{\"o}gberg, C.,
+  Sartor, H., Lekander, T., Nystr{\"o}m, L., Andersson, I., and Zackrisson, S.
+  (2023).
+\newblock Artificial intelligence-supported screen reading versus standard
+  double reading in the {Mammography Screening with Artificial Intelligence}
+  trial ({MASAI}): a clinical safety analysis of a randomised, controlled,
+  non-inferiority, single-blinded, screening accuracy study.
+\newblock {\em The Lancet Oncology}, 24(8):936--944.
+
+\bibitem[LeCun et~al., 2015]{lecun2015deep}
+LeCun, Y., Bengio, Y., and Hinton, G. (2015).
+\newblock Deep learning.
+\newblock {\em Nature}, 521(7553):436--444.
+
+\bibitem[Litjens et~al., 2017]{litjens2017survey}
+Litjens, G., Kooi, T., Ehteshami~Bejnordi, B., Setio, A. A.~A., Ciompi, F.,
+  Ghafoorian, M., van~der Laak, J. A. W.~M., van Ginneken, B., and S{\'a}nchez,
+  C.~I. (2017).
+\newblock A survey on deep learning in medical image analysis.
+\newblock {\em Medical Image Analysis}, 42:60--88.
+
+\bibitem[Lowry and Zuiderveld, 2024]{lowry2024artificial}
+Lowry, K.~P. and Zuiderveld, C.~C. (2024).
+\newblock Artificial intelligence for breast cancer risk assessment.
+\newblock {\em Radiologic Clinics of North America}, 62(4):619--625.
+
+\bibitem[Lu et~al., 2021]{lu2021data}
+Lu, M.~Y., Williamson, D. F.~K., Chen, T.~Y., Chen, R.~J., Barbieri, M., and
+  Mahmood, F. (2021).
+\newblock Data-efficient and weakly supervised computational pathology on
+  whole-slide images.
+\newblock {\em Nature Biomedical Engineering}, 5(6):555--570.
+
+\bibitem[McKinney et~al., 2020]{mckinney2020international}
+McKinney, S.~M., Sieniek, M., Godbole, V., Godwin, J., Antropova, N.,
+  Ashrafian, H., Back, T., Chesus, M., Corrado, G.~S., Darzi, A., et~al.
+  (2020).
+\newblock International evaluation of an {AI} system for breast cancer
+  screening.
+\newblock {\em Nature}, 577(7788):89--94.
+
+\bibitem[McMahan et~al., 2017]{mcmahan2017communication}
+McMahan, B., Moore, E., Ramage, D., Hampson, S., and y~Arcas, B.~A. (2017).
+\newblock Communication-efficient learning of deep networks from decentralized
+  data.
+\newblock {\em Proceedings of the 20th International Conference on Artificial
+  Intelligence and Statistics}, pages 1273--1282.
+
+\bibitem[Nasser and Yusof, 2023]{nasser2023deep}
+Nasser, M. and Yusof, U.~K. (2023).
+\newblock Deep learning based methods for breast cancer diagnosis: A systematic
+  review and future direction.
+\newblock {\em Diagnostics}, 13(1):161.
+
+\bibitem[Priya et~al., 2024]{priya2024deep}
+Priya, C. V.~L., V, G.~B., B, R.~V., and Ramachandran, S. (2024).
+\newblock Deep learning approaches for breast cancer detection in
+  histopathology images: A review.
+\newblock {\em Cancer Biomarkers}, 40(1):1--25.
+
+\bibitem[Qi et~al., 2024]{qi2024radiomics}
+Qi, Y.-J., Su, G.-H., You, C., Zhang, X., Xiao, Y., Jiang, Y.-Z., and Shao,
+  Z.-M. (2024).
+\newblock Radiomics in breast cancer: Current advances and future directions.
+\newblock {\em Cell Reports Medicine}, 5(9):101719.
+
+\bibitem[Ribeiro et~al., 2016]{ribeiro2016should}
+Ribeiro, M.~T., Singh, S., and Guestrin, C. (2016).
+\newblock ``{W}hy should {I} trust you?'': Explaining the predictions of any
+  classifier.
+\newblock {\em Proceedings of the ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining}, pages 1135--1144.
+
+\bibitem[Rieke et~al., 2020]{rieke2020future}
+Rieke, N., Hancox, J., Li, W., Milletari, F., Roth, H.~R., Albarqouni, S.,
+  Bakas, S., Galtier, M.~N., Landman, B.~A., Maier-Hein, K., et~al. (2020).
+\newblock The future of digital health with federated learning.
+\newblock {\em NPJ Digital Medicine}, 3(1):119.
+
+\bibitem[Rodriguez-Ruiz et~al., 2019]{rodriguez2019standalone}
+Rodriguez-Ruiz, A., L{\aa}ng, K., Gubern-Merida, A., Broeders, M., Gennaro, G.,
+  Clauser, P., Helbich, T.~H., Chevalier, M., Tan, T., Mertelmeier, T., et~al.
+  (2019).
+\newblock Stand-alone artificial intelligence for breast cancer detection in
+  mammography: Comparison with 101 radiologists.
+\newblock {\em Journal of the National Cancer Institute}, 111(9):916--922.
+
+\bibitem[Selvaraju et~al., 2017]{selvaraju2017grad}
+Selvaraju, R.~R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., and Batra,
+  D. (2017).
+\newblock Grad-{CAM}: Visual explanations from deep networks via gradient-based
+  localization.
+\newblock {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 618--626.
+
+\bibitem[Shen et~al., 2019]{shen2019deep}
+Shen, L., Margolies, L.~R., Rothstein, J.~H., Fluder, E., McBride, R., and
+  Sieh, W. (2019).
+\newblock Deep learning to improve breast cancer detection on screening
+  mammography.
+\newblock {\em Scientific Reports}, 9(1):12495.
+
+\bibitem[Siddique et~al., 2023]{siddique2023tomography}
+Siddique, M., Liu, M., Duong, P., Jambawalikar, S., and Ha, R. (2023).
+\newblock Deep learning approaches with digital mammography for evaluating
+  breast cancer risk, a narrative review.
+\newblock {\em Tomography}, 9(3):1110--1119.
+
+\bibitem[Sung et~al., 2021]{sung2021global}
+Sung, H., Ferlay, J., Siegel, R.~L., Laversanne, M., Soerjomataram, I., Jemal,
+  A., and Bray, F. (2021).
+\newblock Global cancer statistics 2020: {GLOBOCAN} estimates of incidence and
+  mortality worldwide for 36 cancers in 185 countries.
+\newblock {\em CA: A Cancer Journal for Clinicians}, 71(3):209--249.
+
+\bibitem[Tan and Le, 2019]{tan2019efficientnet}
+Tan, M. and Le, Q.~V. (2019).
+\newblock Efficientnet: Rethinking model scaling for convolutional neural
+  networks.
+\newblock {\em Proceedings of the 36th International Conference on Machine
+  Learning}, pages 6105--6114.
+
+\bibitem[Truhn et~al., 2019]{truhn2019radiomic}
+Truhn, D., Schrader, S., Haase, R., Bressem, K.~K., Niehues, S.~M., Ayx, I.,
+  Aerts, H. J. W.~L., and Kather, J.~N. (2019).
+\newblock Radiomic versus convolutional neural networks analysis for
+  classification of contrast-enhancing lesions at multi-parametric breast
+  {MRI}.
+\newblock {\em Radiology}, 290(2):290--297.
+
+\bibitem[Wang, 2024]{wang2024mammography}
+Wang, L. (2024).
+\newblock Mammography with deep learning for breast cancer detection.
+\newblock {\em Frontiers in Oncology}, 14:1281922.
+
+\bibitem[Wu et~al., 2020]{wu2020deep}
+Wu, N., Phang, J., Park, J., Shen, Y., Huang, Z., Zorin, M., Jastrz{\c{e}}bski,
+  S., F{\'e}vry, T., Katsnelson, J., Kim, E., et~al. (2020).
+\newblock Deep neural networks improve radiologists' performance in breast
+  cancer screening.
+\newblock {\em IEEE Transactions on Medical Imaging}, 39(4):1184--1194.
+
+\bibitem[Yala et~al., 2019]{yala2019deep}
+Yala, A., Lehman, C., Schuster, T., Portnoi, T., and Barzilay, R. (2019).
+\newblock A deep learning mammography-based model for improved breast cancer
+  risk prediction.
+\newblock {\em Radiology}, 292(1):60--66.
+
+\bibitem[Yala et~al., 2021]{yala2022optimizing}
+Yala, A., Mikhael, P.~G., Strand, F., Lin, G., Smith, K., Wan, Y.-L., Lamb, L.,
+  Hughes, K., Lehman, C., and Barzilay, R. (2021).
+\newblock Toward robust mammography-based models for breast cancer risk.
+\newblock {\em Science Translational Medicine}, 13(578):eaba4373.
+
+\bibitem[Zhang et~al., 2023]{zhang2023recent}
+Zhang, J., Wu, J., Zhou, X.~S., Shi, F., and Shen, D. (2023).
+\newblock Recent advancements in artificial intelligence for breast cancer:
+  Image augmentation, segmentation, diagnosis, and prognosis approaches.
+\newblock {\em Seminars in Cancer Biology}, 96:11--25.
+
+\end{thebibliography}
