@@ -45,8 +45,14 @@ scientific execution environment (K-Dense Scientific Skills).
    python "$TASK_DIR/dashboard/dashboard_serve.py" --port <free_port> &
    # Tell user the URL immediately: http://localhost:<port>/dashboard/dashboard.html
    ```
-4. **Construct the Claude Code prompt** — include dashboard update instructions:
-   - Which scientific skill(s) to use
+4. **拆分长任务** — 如果任务包含多个阶段（如：文献搜索 + 写大纲 + 写正文 + 做图 + 编译），**必须拆成多个 Claude Code session**，每个 session 只做一件事：
+   - Phase 1: 文献搜索 + 大纲
+   - Phase 2: 写正文（或分章节）
+   - Phase 3: 生成图表
+   - Phase 4: 编译 PDF
+   - **原因：** 单次 CC session 超过 10 分钟大概率卡住（上下文窗口满、API 超时、生成超长文本）
+5. **Construct the Claude Code prompt** — 短而聚焦，包含 dashboard 更新指令：
+   - Which scientific skill(s) to use（**明确指定 skill 路径**，如 `先读 ~/next-medgeai/MedgeClaw/scientific-skills/scientific-skills/scientific-writing/SKILL.md`）
    - Input file path(s)
    - Output directory: always `$TASK_DIR/output/`
    - **Dashboard state.json path** and update expectations:
@@ -55,12 +61,55 @@ scientific execution environment (K-Dense Scientific Skills).
      - Use `{"src": "/output/file.csv"}` for table references (NOT inline data)
      - Image paths absolute: `/output/fig1.png`
    - Expected output format (table, figure, report)
-5. **Execute** via Claude Code CLI:
+6. **Execute** via Claude Code CLI（推荐 stream-json + hooks）:
    ```bash
+   # 推荐：stream-json 模式（可观测）
+   cd "$TASK_DIR" && claude -p "短任务描述。先读 skill 文件。完成后: openclaw system event --text 'Done: 摘要' --mode now" \
+     --output-format stream-json \
+     --verbose \
+     --dangerously-skip-permissions \
+     2>/dev/null | tail -1
+   
+   # 旧方式（不推荐，无可观测性）
    claude --dangerously-skip-permissions -p "Use available scientific skills. [TASK]. Input: [PATH]. Outputs: $TASK_DIR/output/. Update dashboard at $TASK_DIR/dashboard/state.json after each step (step panels with code + outputs). Completion: openclaw system event --text 'Done: summary' --mode now"
    ```
-6. **Monitor** — if the task takes >30s, inform the user it is running in background
-7. **Report back** — summarize results, point user to dashboard URL for details
+7. **Monitor** — 用 hooks 的 `progress.json` 判断进度：
+   - 如果 `last_update` 超过 5 分钟没变 → 大概率卡了，kill 掉重来
+   - 如果任务 >30s，告知用户后台运行中
+8. **Report back** — 总结结果，指向 dashboard URL
+
+## 科学写作任务的特殊处理
+
+**文献综述 / 论文写作必须拆分：**
+
+```bash
+# Phase 1: 文献搜索 + 大纲（5-10 分钟）
+cd writing_outputs/<task_name> && claude -p "读 ~/next-medgeai/MedgeClaw/scientific-skills/scientific-skills/literature-review/SKILL.md 和 scientific-writing/SKILL.md。按 literature-review 流程搜索文献，创建 outline.md（Stage 1）。" \
+  --output-format stream-json --verbose --dangerously-skip-permissions 2>/dev/null | tail -1
+
+# Phase 2: 写正文（分章节，每章 5-10 分钟）
+cd writing_outputs/<task_name> && claude -p "读 outline.md 的第 1-3 节。用 Edit 工具在 manuscript.tex 中补充这些章节的正文。写完整的学术散文。" \
+  --output-format stream-json --verbose --dangerously-skip-permissions 2>/dev/null | tail -1
+
+# Phase 3: 创建 BibTeX + 添加引用（5 分钟）
+cd writing_outputs/<task_name> && claude -p "读 manuscript.tex 和 outline.md。创建 references/references.bib（至少 30 篇），在 tex 中添加 \cite{}（每节至少 5 处），在 \end{document} 前加 \bibliographystyle{unsrt} 和 \bibliography{references}。" \
+  --output-format stream-json --verbose --dangerously-skip-permissions 2>/dev/null | tail -1
+
+# Phase 4: 生成图表（5-10 分钟）
+cd writing_outputs/<task_name> && claude -p "在 figures/ 下创建 5 个 Python 脚本生成图表 PDF。中文标签用 Noto Sans CJK SC 字体。" \
+  --output-format stream-json --verbose --dangerously-skip-permissions 2>/dev/null | tail -1
+
+# Phase 5: 编译 PDF（手动或简单 CC）
+cd writing_outputs/<task_name>/drafts && xelatex -output-directory=../final manuscript.tex
+cd ../final && bibtex manuscript && cd ../drafts && xelatex -output-directory=../final manuscript.tex && xelatex -output-directory=../final manuscript.tex
+```
+
+**为什么必须拆分：**
+- 单次让 CC 做完所有步骤（搜文献 + 写大纲 + 写正文 + 做图 + 编译）会导致：
+  - 上下文窗口满（74 篇摘要 + task.md + skill 文件 + LaTeX 模板 = 超大上下文）
+  - Opus 生成超长 LaTeX 文本（数千 token）需要 10+ 分钟，容易超时
+  - 中途卡住后无法恢复，只能重来
+- 拆分后每个 phase 独立，失败了只需重跑该 phase
 
 ## Output handling
 - Tables → summarize top rows, mention full file path
@@ -94,8 +143,23 @@ claude --dangerously-skip-permissions -p "Use DESeq2 scientific skill. Run diffe
 claude --dangerously-skip-permissions -p "Use Scanpy scientific skill. Analyze 10X data at /workspace/data/10x/. QC, clustering, markers. Save to /workspace/data/10x/output/. Update dashboard state.json with step panels."
 ```
 
+## 输出路径约束（重要）
+
+**所有任务输出必须写入指定目录：**
+
+| 任务类型 | 输出路径 | 说明 |
+|---------|---------|------|
+| 数据分析 | `data/<task_name>/output/` | CSV、图表、报告 |
+| Dashboard | `data/<task_name>/dashboard/` | state.json, dashboard.html, serve.py |
+| 科学写作 | `writing_outputs/<date>_<topic>/` | LaTeX、PDF、BibTeX、figures/ |
+| 临时文件 | `data/<task_name>/temp/` | 中间产物 |
+
+**禁止写入：**
+- ❌ 项目根目录（`~/next-medgeai/MedgeClaw/`）
+- ❌ `/workspace/outputs/`（已废弃）
+- ❌ `/workspace/data/`（只读，用户输入数据）
+
 ## Important rules
-- Always save outputs to `/workspace/outputs/` — never to `/workspace/data/`
 - Never modify raw data files in `/workspace/data/`
 - If the user's request is ambiguous, ask one clarifying question before dispatching
 - If Claude Code returns an error about a missing package, retry with `uv pip install [package]` prepended to the command

@@ -37,8 +37,8 @@ export PATH="${NPM_PREFIX}/bin:${PATH}"
 
 # ── .env ──────────────────────────────────────────────────────
 if [ ! -f .env ]; then
-    cp .env.template .env
-    echo "📋 Created .env from template — please fill in your API keys:"
+    cp .env.example .env
+    echo "📋 Created .env from .env.example — please fill in your API keys:"
     echo "   nano .env"
     echo ""
     echo "   Then re-run: bash setup.sh"

@@ -68,14 +68,16 @@ Research Dashboard :77xx    RStudio :8787       Feishu Rich Cards
 git clone --recurse-submodules https://github.com/xjtulyc/MedgeClaw
 cd MedgeClaw
 
-# 2. Run setup (creates .env template on first run)
+# 2. Configure environment
+cp .env.example .env
+nano .env  # Fill in your API key and provider settings
+
+# 3. Run setup
 bash setup.sh
 
-# 3. Fill in your API key
-nano .env
-
-# 4. Run setup again to complete installation
-bash setup.sh
+# 4. Sync MedgeClaw configuration to OpenClaw
+python3 sync.py
+openclaw gateway restart
 
 # 5. Start the analysis environment
 docker compose up -d
@@ -85,6 +87,16 @@ openclaw onboard
 ```
 
 Then open your messaging app and start talking to your assistant.
+
+### Environment Configuration
+
+The `.env` file controls:
+- **API settings**: Provider, base URL, model, API key
+- **Third-party proxy fix**: `ANTHROPIC_SMALL_FAST_MODEL` (required for non-Anthropic endpoints)
+- **Path overrides** (optional): `MEDGECLAW_ROOT`, `OPENCLAW_DIR`
+- **Docker settings**: Container name, RStudio/Jupyter passwords
+
+See `.env.example` for all available options.
 
 ---
 
@@ -215,9 +227,38 @@ MedgeClaw/
 ├── docker-compose.yml
 ├── setup.sh
 ├── CLAUDE.md               # Project instructions for Claude Code
-├── .env.template
+├── .env.example
 └── .gitmodules
 ```
+
+---
+
+## 🔄 Project Synchronization
+
+MedgeClaw integrates with OpenClaw via a configuration-driven sync mechanism.
+
+### How it works
+
+- **Configuration**: `.medgeclaw-sync.yml` defines what to sync
+- **Sync script**: `sync.py` reads the config and performs the sync
+- **Environment**: `.env` defines paths (optional, auto-detected by default)
+
+### When to sync
+
+Run `python3 sync.py` after:
+- Initial setup
+- Modifying project documentation (MEDGECLAW.md, IDENTITY.md)
+- Adding/updating custom skills in `skills/`
+- Changing sync configuration in `.medgeclaw-sync.yml`
+
+### What gets synced
+
+- Project docs → OpenClaw workspace
+- Custom skills → OpenClaw workspace/skills/
+- Identity/context → SOUL.md, AGENTS.md (appended)
+- Skill paths → openclaw.json
+
+See [SYNC_README.md](SYNC_README.md) for details.
 
 ---
 

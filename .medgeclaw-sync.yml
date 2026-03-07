@@ -1,0 +1,51 @@
+# MedgeClaw 同步配置
+# 用法: cd MedgeClaw && python3 sync.py
+#
+# 所有源路径相对于 MedgeClaw 根目录
+# 所有目标路径相对于 OpenClaw workspace (~/.openclaw/workspace)
+# 修改此文件即可控制同步内容，无需改 sync.py
+
+# ============================================================
+# 文档同步（覆盖写入）
+# 格式: 源文件 -> 目标文件
+# ============================================================
+docs:
+  - MEDGECLAW.md -> MEDGECLAW.md
+  - IDENTITY.md -> IDENTITY.md
+
+# ============================================================
+# Skills 同步（整目录覆盖）
+# 格式: 源目录 -> 目标目录
+# ============================================================
+skills:
+  - skills/feishu-rich-card -> skills/feishu-rich-card
+  - skills/svg-ui-templates -> skills/svg-ui-templates
+  - skills/cjk-viz -> skills/cjk-viz
+  - skills/dashboard -> skills/dashboard
+  - skills/biomed-dispatch -> skills/biomed-dispatch
+
+# ============================================================
+# 追加内容（幂等，按 marker 判断是否已追加）
+# ============================================================
+append:
+  - source: SOUL_APPEND.md
+    target: SOUL.md
+    marker: "## MedgeClaw 身份"
+  - source: AGENTS_APPEND.md
+    target: AGENTS.md
+    marker: "MEDGECLAW.md"
+
+# ============================================================
+# OpenClaw 配置修改
+# ============================================================
+config:
+  - path: openclaw.json
+    action: add_skill_dir
+    value: skills
+  - path: openclaw.json
+    action: add_skill_dir
+    value: scientific-writer/skills
+  - path: openclaw.json
+    action: set_model_limits
+    contextWindow: 200000
+    maxTokens: 320000

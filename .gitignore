@@ -1,9 +1,43 @@
+# 环境配置
 .env
+
+# 数据目录（用户输入数据 + 任务输出）
 data/
+
+# 共享输出目录（已废弃，保留兼容）
 outputs/
+
+# 写作输出目录（Claude Code 科学写作任务）
+writing_outputs/
+
+# OpenClaw workspace 副本（不应提交）
 openclaw-workspace/
+
+# Node.js
 node_modules/
+
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# R
 .Rhistory
+.RData
+.Rproj.user/
+
+# 日志
 *.log
-__pycache__/
+
+# Claude Code hooks 输出
+.claude/hooks/*.json
+.claude/hooks/*.jsonl
+
+# 临时文件
+*.tmp
+*.swp
+*~
+.DS_Store

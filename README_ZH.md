@@ -68,14 +68,16 @@ Research Dashboard :77xx     RStudio :8787         飞书图文卡片
 git clone --recurse-submodules https://github.com/xjtulyc/MedgeClaw
 cd MedgeClaw
 
-# 2. 运行安装脚本（第一次运行会生成 .env 模板）
+# 2. 配置环境
+cp .env.example .env
+nano .env  # 填写 API key 和提供商设置
+
+# 3. 运行安装脚本
 bash setup.sh
 
-# 3. 填入你的 API Key
-nano .env
-
-# 4. 再次运行安装脚本完成安装
-bash setup.sh
+# 4. 同步 MedgeClaw 配置到 OpenClaw
+python3 sync.py
+openclaw gateway restart
 
 # 5. 启动分析环境
 docker compose up -d
@@ -83,6 +85,18 @@ docker compose up -d
 # 6. 启动 OpenClaw
 openclaw onboard
 ```
+
+然后打开你的消息应用，开始和助手对话。
+
+### 环境配置
+
+`.env` 文件控制：
+- **API 设置**：提供商、Base URL、模型、API Key
+- **第三方代理修复**：`ANTHROPIC_SMALL_FAST_MODEL`（非 Anthropic 官方地址必须设置）
+- **路径覆盖**（可选）：`MEDGECLAW_ROOT`、`OPENCLAW_DIR`
+- **Docker 设置**：容器名称、RStudio/Jupyter 密码
+
+所有可用选项见 `.env.example`。
 
 ---
 
@@ -213,9 +227,38 @@ MedgeClaw/
 ├── docker-compose.yml
 ├── setup.sh
 ├── CLAUDE.md               # Claude Code 项目规范
-├── .env.template
+├── .env.example
 └── .gitmodules
 ```
+
+---
+
+## 🔄 项目同步
+
+MedgeClaw 通过配置驱动的同步机制与 OpenClaw 集成。
+
+### 工作原理
+
+- **配置文件**：`.medgeclaw-sync.yml` 定义同步内容
+- **同步脚本**：`sync.py` 读取配置执行同步
+- **环境变量**：`.env` 定义路径（可选，默认自动检测）
+
+### 何时同步
+
+以下情况需要重新运行 `python3 sync.py`：
+- 首次安装
+- 修改了项目文档（MEDGECLAW.md、IDENTITY.md）
+- 添加/更新了 `skills/` 中的自定义技能
+- 修改了 `.medgeclaw-sync.yml` 同步配置
+
+### 同步内容
+
+- 项目文档 → OpenClaw workspace
+- 自定义 skills → OpenClaw workspace/skills/
+- 身份/上下文 → SOUL.md、AGENTS.md（追加）
+- 技能路径 → openclaw.json
+
+详见 [SYNC_README.md](SYNC_README.md)。
 
 ---
 
