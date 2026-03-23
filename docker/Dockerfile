@@ -70,3 +70,10 @@ COPY docker/entrypoint-railway.sh /entrypoint-railway.sh
 RUN chmod +x /entrypoint-railway.sh
 EXPOSE 8787
 EXPOSE 8888
+
+# ── K-Dense Scientific Skills (inline clone — Railway doesn't support submodules) ──
+RUN mkdir -p /workspace/skills && \
+    git clone --depth=1 https://github.com/K-Dense-AI/claude-scientific-skills.git \
+    /workspace/skills/scientific 2>/dev/null || echo "K-Dense skills unavailable, continuing"
+
+WORKDIR /workspace
