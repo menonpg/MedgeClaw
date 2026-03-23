@@ -61,7 +61,7 @@ RUN npm install -g @anthropic-ai/claude-code
 EXPOSE 8787 8888
 
 # ── Entrypoint ────────────────────────────────────────────────────────────────
-COPY entrypoint.sh /entrypoint.sh
+COPY docker/entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 CMD ["/entrypoint.sh"]
 
