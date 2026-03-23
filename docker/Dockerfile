@@ -66,7 +66,7 @@ RUN chmod +x /entrypoint.sh
 CMD ["/entrypoint.sh"]
 
 # ── Railway entrypoint ────────────────────────────────────────────────────────
-COPY entrypoint-railway.sh /entrypoint-railway.sh
+COPY docker/entrypoint-railway.sh /entrypoint-railway.sh
 RUN chmod +x /entrypoint-railway.sh
 EXPOSE 8787
 EXPOSE 8888
