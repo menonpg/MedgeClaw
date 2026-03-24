@@ -53,7 +53,9 @@ RUN Rscript -e "install.packages(c( \
 ), repos='https://cloud.r-project.org')"
 
 # ── Claude Code ───────────────────────────────────────────────────────────────
-RUN npm install -g @anthropic-ai/claude-code# ── Ports ─────────────────────────────────────────────────────────────────────
+RUN npm install -g @anthropic-ai/claude-code
+
+# ── Ports ─────────────────────────────────────────────────────────────────────
 EXPOSE 8888
 
 # ── K-Dense Scientific Skills (inline clone) ──────────────────────────────────
