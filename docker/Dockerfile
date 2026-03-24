@@ -53,27 +53,18 @@ RUN Rscript -e "install.packages(c( \
 ), repos='https://cloud.r-project.org')"
 
 # ── Claude Code ───────────────────────────────────────────────────────────────
-RUN npm install -g @anthropic-ai/claude-code
-
-# ── Ports ─────────────────────────────────────────────────────────────────────
-# 8787 = RStudio Server
-# 8888 = JupyterLab
-EXPOSE 8787 8888
-
-# ── Entrypoint ────────────────────────────────────────────────────────────────
-COPY docker/entrypoint.sh /entrypoint.sh
-RUN chmod +x /entrypoint.sh
-CMD ["/entrypoint.sh"]
-
-# ── Railway entrypoint ────────────────────────────────────────────────────────
-COPY docker/entrypoint-railway.sh /entrypoint-railway.sh
-RUN chmod +x /entrypoint-railway.sh
-EXPOSE 8787
+RUN npm install -g @anthropic-ai/claude-code# ── Ports ─────────────────────────────────────────────────────────────────────
 EXPOSE 8888
 
-# ── K-Dense Scientific Skills (inline clone — Railway doesn't support submodules) ──
+# ── K-Dense Scientific Skills (inline clone) ──────────────────────────────────
 RUN mkdir -p /workspace/skills && \
     git clone --depth=1 https://github.com/K-Dense-AI/claude-scientific-skills.git \
     /workspace/skills/scientific 2>/dev/null || echo "K-Dense skills unavailable, continuing"
 
+RUN mkdir -p /workspace/data /workspace/outputs
+
 WORKDIR /workspace
+
+# ── CMD: JupyterLab foreground process (Railway-compatible) ───────────────────
+CMD ["sh", "-c", "python3 -m jupyterlab --ip=0.0.0.0 --port=${PORT:-8888} --no-browser --ServerApp.token=${JUPYTER_TOKEN:-medgeclaw2026} --ServerApp.allow_origin=* --notebook-dir=/workspace"]
+
