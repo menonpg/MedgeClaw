@@ -1,7 +1,8 @@
 #!/bin/bash
 # Railway-compatible entrypoint
-# JupyterLab on $PORT (Railway public URL)
-# RStudio Server on internal port 8787
+
+# Create required directories
+mkdir -p /workspace/data /workspace/outputs /workspace/skills
 
 # Start RStudio Server (internal only)
 /init &
@@ -17,9 +18,5 @@ jupyter lab \
     --NotebookApp.base_url="/" \
     --notebook-dir=/workspace/data &
 
-# Health check endpoint (simple Python HTTP server on same port? No — jupyter serves it)
-echo "MedgeClaw analysis environment starting..."
-echo "JupyterLab: port ${JUPYTER_PORT}"
-echo "RStudio Server: port 8787 (internal)"
-
+echo "MedgeClaw starting — JupyterLab on port ${JUPYTER_PORT}"
 wait
